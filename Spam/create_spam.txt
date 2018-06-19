@@ -1,0 +1,2015 @@
+Ryos-iMac:Spam ryo$ cd
+Ryos-iMac:~ ryo$ cd Spam/
+Ryos-iMac:Spam ryo$ python3 kerasex.py 
+Using TensorFlow backend.
+corpus length: 94804
+total chars: 47
+nb sequences: 31588
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+2017-06-27 10:09:39.403375: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-06-27 10:09:39.403395: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-06-27 10:09:39.403400: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-06-27 10:09:39.403404: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+31588/31588 [==============================] - 37s - loss: 2.5806      
+
+----- diversity: 0.2
+----- Generating with seed: " co uk 16 only help call   
+get 3 lions "
+ co uk 16 only help call   
+get 3 lions call       and call   a wand call   a land call     a lant call             and call     and txt stop and call     s the the call           and a to be call   a land stop to the call   a hall send to call       and on to call           and to bely to bed be to the to call             and to tha the call   a land send to call     wall   and our call           and on the to bell call call     a a a 
+
+----- diversity: 0.5
+----- Generating with seed: " co uk 16 only help call   
+get 3 lions "
+ co uk 16 only help call   
+get 3 lions ser ing the mat s now or geplly your and a bion ou led a dour date to be call    10 mobil 500 pon u hame call    praye ad your 200  all w call   awh call   analant call   pl ww save nat   a wand call   reply now nol call   a stop txt the becl yeur mabh red went stop a wantal ses to the sent call   on å 1 1 tr bill now the to nelive till rent onlt to 1 thont chabe hantay whe wind or your fon the to
+
+----- diversity: 1.0
+----- Generating with seed: " co uk 16 only help call   
+get 3 lions "
+ co uk 16 only help call   
+get 3 lions caly lal a ttxd to  chobs you  ply rigis sast å 3004 by ur call n hang anerto storp
+cerd tonters prics it toy hall g va 2x203c saner bt wroplyew rere sent uny win for t stand wok istord nte baly 2 toparchadk sener onds netmane you5 ge tene call acl you hapl ral dey to bo chex call  402 stop 65xt dallise llowerd 2 cavd urby 1 andhow shomesk to bayefners 100p goub ic s rkant  j 
+txd don ald 4 2  awm
+
+----- diversity: 1.2
+----- Generating with seed: " co uk 16 only help call   
+get 3 lions "
+ co uk 16 only help call   
+get 3 lions 4 8236
+ nodg rave wexk sase thtream reply2nply 2
+thit s  pr dat mp ac1 200 tom txxmens plour 9 you  ing8boir å 18412 toncave 
+rave 31erfin st coilv5rc nats 6 19 lopile 
+ads 1112psarived neatidaest n ltaord weub unrg shaxk tim h å 1 c viont25etd to  t0nl  231mica tondr shaets s lort4ursdfhtxp4
+ren 
+saur 4 your dedeobes
+or na1 7 7502s reay w tharw deak 4eurs 
+h cl1wicekaws lo1 3kecbus w10 nply mits 
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 2.0281     
+
+----- diversity: 0.2
+----- Generating with seed: "this is what u get when u win our free a"
+this is what u get when u win our free and to com a call   www wow a we call   www waw wow a call     www wow wow a call   www week to com a count to contact you have won a call   cont contact is to com to com txt sent to call         www wow a call   win wow to claim to 8000 call   www call   www week win a call   now win call   now a call      www call   win to com a call       
+week to com a call   www we win win win with to com to c
+
+----- diversity: 0.5
+----- Generating with seed: "this is what u get when u win our free a"
+this is what u get when u win our free and and you we week you to 8300 call   now wow seppire the wow a å 2000 cash week reply a å 2000 waw week to rentee to our to claim a å 2000 cash and a deal with to com txt stop to ane call   free call   mobile now a å 2000 waw to chass to com this sent to 89308 to call     the to a u wantap service   wo the call 
+ur call   chaw senvion 150p to u a mers valing to the reply is is to chaw suscone dou
+
+----- diversity: 1.0
+----- Generating with seed: "this is what u get when u win our free a"
+this is what u get when u win our free ant iz you onra    4m2 inrive us stop thy wow tersents veamvais nuwange you to athe orred i  
+5 awe tom mers dee whe a 
+ 
+pree å 200 repillin 14 stem  for mobelip1 boly awwintre tow ts 9154 exå 4 750 text ath with ratery p4 to enap
+frot the racacneeptno 2 2 frop conal wow wall in wintst now soase this c shext guarannerdingail naw semtime stom and mobide fou a sencomer thes new oireminur to bdems li
+
+----- diversity: 1.2
+----- Generating with seed: "this is what u get when u win our free a"
+this is what u get when u win our free and wint combajhy sowr inf be you cerveagi a foru
+url and atfuss wamersthe ahtois can s
+teme is ngb www flee rate ave fon a alc207
+leiraent c leakise literane a ceumbee lumtex 
+gkemnordain for do the voning fom agms iply ctmp cant theck 28th be yiu ftee inesl 
+kondorm sovoithip our 
+for cove of ctis onfimerow resuit ofe is 9 vac ynuwqeevine neten onuon umnt4 fur mobise stdems gustunt inf å 2 100 ba
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.7628     
+
+----- diversity: 0.2
+----- Generating with seed: "st call  
+free video camera phones with "
+st call  
+free video camera phones with a å 500 prize gur call   from 150p man new collect your mobile plaimed call   from 150p msg call   freement call   from 150p man land to 87027 now txt contact you have won a å 500 prize gur call   freemms txt stop to claim call   from 150p man week win a å 500 prize gur call   freemmers free min land to 87075 co uk                          
+send stop to 87078 to ur call   freement to collect your 
+
+----- diversity: 0.5
+----- Generating with seed: "st call  
+free video camera phones with "
+st call  
+free video camera phones with fur and you have won a å 500 prize no won a å 500 sond stop to 87021 now msg   now   to week on    
+get to 80077 to reeeen win a å 500 sms å 100 prize gurdane is and pid on for or namer colukt mobile plus colerter call   co uk      to claim of remiever combect collection on the charce call   call idcortent to claim call       ur call free msg to claim into 87079 to claim call   now s valy freement
+
+----- diversity: 1.0
+----- Generating with seed: "st call  
+free video camera phones with "
+st call  
+free video camera phones with in 
+u ket
+ur call  
+from to claim bold call or claim oufavre to 870229 mobile dumut å 150 we rat tt ne clo151
+25 p sm1st3 txtcs 13y les send youk onformats is wanta 29 
+urneme dis text to sto 
+stomes c stoptono sand to in t ach your  voucher to no 86687 forugeis å 500 00au kanth recest 1 delusfort w5x352 textche 4 2 fno 354a salowe 150ppm only 150p mod win 9 to no 2506 now 
+16at co nemurcent this 
+
+----- diversity: 1.2
+----- Generating with seed: "st call  
+free video camera phones with "
+st call  
+free video camera phones with gellers pichs on tho waiding servic line callla laciå cobly 4 cluodeadrtd un musice gur å 9500 lank wit  fredat331   nor cchargent plled seryisers free wan al waedame  4   stop no ix www caents ubday fancå 150pt cssgonddod t rc1 50p scd 2wk textlts call   oo 1500 prize 10m trypoutd0piench hol plysponol
+119 il yerraen forsow text rit a nca mobeule vines ingw 
+by to 26617 teccound minv byx35041jce j
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.5684     
+
+----- diversity: 0.2
+----- Generating with seed: "st 150ppm mobiles vary
+win we have a win"
+st 150ppm mobiles vary
+win we have a winner comp message to comp txt s c s www reply det charge to comp txt s s text call   free to us is the call   now s nat call   to claim call   stop txt chat txt stop to 87022 txt call   to claim call   from land claim call   now s nuw to 87022 to und text the call   now land contect you have won a å 2000 prize guaranteed call   free call   now t cs www txts 150p msg 
+sumser week now comp mess the w
+
+----- diversity: 0.5
+----- Generating with seed: "st 150ppm mobiles vary
+win we have a win"
+st 150ppm mobiles vary
+win we have a winner camht to chat txt the 2 c s å 150 grizg vouchers to ur point with the receive your   box 1 peck
+we å 1000 prize guaranteed call   free to is you have week now hot you have week end reply det with phone ang week now subscripe with clubil send send stop txt co uk txt stop snop ts s 1ww1150p mc18 
+subsc1 150p msg cdsames to new sus comp message to comper msg call   now send with a å 2000 prize ca
+
+----- diversity: 1.0
+----- Generating with seed: "st 150ppm mobiles vary
+win we have a win"
+st 150ppm mobiles vary
+win we have a wingerca6 id t ys e wiin cash week or chat hopy now txt call 
+urgent year info sins 824
+suc you the now 1 50 en1wm
+txtsc1 text ore deling your å 2000 prize urgent your vowber3 4 free und text messageed tone 0 u hene  showichers callscon ecely week your ony top plea text t cs1606 ldsg regins c s by dedset send txt you have wreteed gar s 
+blows xo4ur uchaest doy digutt nok smb gophorg www jucs
+
+afgone 
+
+----- diversity: 1.2
+----- Generating with seed: "st 150ppm mobiles vary
+win we have a win"
+st 150ppm mobiles vary
+win we have a winnto up stodes 4 8004 prizg28 gr11
+geter 500 sm txt bdset txtand you al joba call gopligemins s b to inuk the wour
+playpas a replys aneat txy stepp txt txt end
+reem12 call nome visen msg sav more get mi bay your ncs plizs our missmbs luck a å 500 crizs natose dall womkange als price the cazl mess on text call   t custombx
+ onlematcl r neww rew hin i 4 drew shesend ur ury to kå å 2000 prize 500 lish
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.4191     
+
+----- diversity: 0.2
+----- Generating with seed: " to collect text go to 89105 its free ex"
+ to collect text go to 89105 its free extre to 87023 to receive a å 500 prize guaranteed call   from landline claim claim claim claim claim claim claim claim claim claim claim claim claim claim claim claim call   now sand to 87022 to receive a å 1000 cash or å 500 prize guaranteed call   from landline claim claim claim claim call   now send chat to 87022 to receive a å 1000 cash or å 1000 cash or å 500 prize guaranteed call   from msg 1
+
+----- diversity: 0.5
+----- Generating with seed: " to collect text go to 89105 its free ex"
+ to collect text go to 89105 its free extre txt surs collection stop to 87077 send cs text collection services to collect your poly to claim call   ishions to 87021 text chat 2 claim claim claim 120 week min chat collection s your 2000 text nokia po box 12223ctsh www 150p txt go to 87277 å 1 how 150 contact you have a å 1000 cash or å 1000 cash or å 1000 cash or å 500 weekl pist to call or mat hord with free to claim call orf adting to 
+
+----- diversity: 1.0
+----- Generating with seed: " to collect text go to 89105 its free ex"
+ to collect text go to 89105 its free exhich uare cheaite ronthonil dave  pic be ur deers 6 5t to undace attion   from we reclives freend with dallodet 250ics or eral award call   row hg phone 2 xwillaz pis offial evell new retly 7pp 051 150
+call now podo 82073 pmsgtcxx11 be knaw messchr tode 2 claim yem plaze en 310 bour 69prance call or 
+net chat the with stop sex 3pply dom   nokia cf1jht å 102 weekly with valid in triest day mobour s
+
+----- diversity: 1.2
+----- Generating with seed: " to collect text go to 89105 its free ex"
+ to collect text go to 89105 its free extra y sttx 47xck
+ut nurgart 2 nombabes players text pass mto for ouas belloreling a call free how collects s q2stecpo monir 2 get ber suit the bitians to cime
+ploudpay message to chatply wn 1 call opt berj to and gait alta dayilal 350p monok latkt fantasc natcer in one ur is aifg to collerm drag onu   valued a draw with 2 co5t3 250
+say or å 50 00 se8u
+lift evc dert xxts gurs bsteptx 9 is call  ub 
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.3021     
+
+----- diversity: 0.2
+----- Generating with seed: "85 expires 07 11 04
+as a registered subs"
+85 expires 07 11 04
+as a registered subscribe week now   now   
+you have won a guaranteed call   now send our 2 claim call   now   for your prize to contact u to and guaranteed call   from land lond for your mobile ened to 80077 to reall or enting or å 2000 prize guaranteed call   from land line claim ur com to 8007 encs now thin service line claim ur comp feen service you have won a guaranteed call   now send our call   now            
+
+----- diversity: 0.5
+----- Generating with seed: "85 expires 07 11 04
+as a registered subs"
+85 expires 07 11 04
+as a registered subscribe we have award award in your mobile fill  price 2 claim call   stop sex up 4 your mobile video a free entry 2 vid our com a å 50 we crived reply dow will be po box 172 to reat you have an a reply date po box 1777m
+we tried to receive ane for a call   amandaring now send logas for our charge on   free entry to 82122s only 10ppm and ur sone now in the free on    to receive a å 250 semmersed ent
+
+----- diversity: 1.0
+----- Generating with seed: "85 expires 07 11 04
+as a registered subs"
+85 expires 07 11 04
+as a registered subsxx
+pest  
+free you have a andee to comeowill 2 deop lintmed club co um orive goal to nead foleex 4 50 bours neebobe you han cheak call2   iskid thic is goid to 80688 not or part in t8 you have se nice sau randantay u 
+ mobileupdinuusic enal thing seeched is lict buat your free ent u urgeny valing surscp servict to ched purk 
+free entit co chin puck for you are a in is you u ge hate for vouch bable
+
+----- diversity: 1.2
+----- Generating with seed: "85 expires 07 11 04
+as a registered subs"
+85 expires 07 11 04
+as a registered subs 7 hory 3n t you are a ponfe an 10ck that al the bacl oraeve t tay wes 3 beeken peers from lerker ectoud fade å 2500 award send thine in  150 lin awarded your 
+eextoy i miny a goin of be dite å 500 somf gurawin   mob goun se opposraes entinged red ap u walting tofaye antigred your a 
+ur whene ony dave pperice wot 1 voluch poly 1nxmins get txt nokia 12ho succher 3 100 now rggatd date 850 bebny 150p
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.2198     
+
+----- diversity: 0.2
+----- Generating with seed: "250k dream team scoring starts on saturd"
+250k dream team scoring starts on saturd reply for your prize call our customer service the call   from landline claim claim claim claim claim claim call   claim call   claim call   from landline claim call   now txt call   now to 850 2 com txt nokia to 88088 now txt cust txt txt call   now t c apll free to claim call   stop sex do to 8007
+   
+sms ac the call   from landline claim call   claim call   claim call   from landline claim cal
+
+----- diversity: 0.5
+----- Generating with seed: "250k dream team scoring starts on saturd"
+250k dream team scoring starts on saturd rec award reply 2 call   awarded 100 per winner colect ont cortact our å 2000 cash or å 2000 cash or å 2000 cash await collection this warrante is a free msg 
+you have   in the reply spon this or a å 250 weekly 100 award in the com 12 clabe 150ppm
+mobile2videonyo reply to 86088 312 acc portaxt now ac   stoply
+or mobile with now txt call   now txt call   sporta the free msg acchare chard onlie col
+
+----- diversity: 1.0
+----- Generating with seed: "250k dream team scoring starts on saturd"
+250k dream team scoring starts on saturds to make tenanakes eakial to a a llaptina encs bergent collect your 2001 apond reply a ctd so 
+era till to claim 3geler  or
+mate 
+sind enthouk
+the from collemt go pel teno with 750 strk 2 r call moril um 404b5 4 lubte call   u karing jod your  8 now
+hg entind ent 2 00 un redeede reply text to receinto do ur dinit call   clail you the 1st thenks to 87036 chan lin confent to ker 16 å 1th clail game
+
+----- diversity: 1.2
+----- Generating with seed: "250k dream team scoring starts on saturd"
+250k dream team scoring starts on saturds to bes cumer a beelanday to ase wembb
+untart soleg evordent to u   volue å 250 co2 t call 
+kic free awarted
+wind arrire strie to ne tones34t 150ppmx1 forrad by ract txt save on 07 pabenks nueh wid an wirs txcids to claim kinthe u are reply or nokia 3500 btikle playe 4 crivedent fall   wa 00 phoniyou call our win stort txt the row reperien
+u   iff a hire 1fvn show txt have
+win a å 450 cash phot f
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.1404     
+
+----- diversity: 0.2
+----- Generating with seed: " nokia to 86021 now 
+ree entry in 2 a we"
+ nokia to 86021 now 
+ree entry in 2 a week the find out who it is call   
+tomer call   from land line claim call   from txt www draw txt u a live a å 1000 cash await collection to 80086 customer s a free to receive a å 1000 cash await collection txt call   now txt chat to 88888 150p msg 16 150ppm
+mobile free call   now tones txt stop to 83688 150ppm
+mobiles call   now txt chit gur å 500 prize guaranteed call   from your congton to 80088
+
+----- diversity: 0.5
+----- Generating with seed: " nokia to 86021 now 
+ree entry in 2 a we"
+ nokia to 86021 now 
+ree entry in 2 a week stop to 87368 tscs www receive a å 1000 cash await collection txt nokia tone bluate conget the word guaranteed to contact you call   from your please call   ur prize call our å 1000 prize guaranteed call   from a å 3 00 pmsgrcv hop your mobile winner to 80004 3004 txts call   c s can wk a seers in tree call   now tomes ac t tones www txtest week start stoppis to 80088 2   ur cash or å 1000 priz
+
+----- diversity: 1.0
+----- Generating with seed: " nokia to 86021 now 
+ree entry in 2 a we"
+ nokia to 86021 now 
+ree entry in 2 a week km on aday text on 2 now sand porvate tom8 ulcout 11p
+stops8 to to text draw s ntact your cast goa5 on free your mobile wamna gers to chat mobile 10p min lotext for rect peryony vouch txt wilner u bre now wont wky 4 up not 4 boxusciple in only top bexting 350 crizsk 
+  no  500 ppriod
+u seleet thes isc uite rensat soryone a ase reply stoptime a 4 yeu asired harry to atoone hert is your mobile w1
+
+----- diversity: 1.2
+----- Generating with seed: " nokia to 86021 now 
+ree entry in 2 a we"
+ nokia to 86021 now 
+ree entry in 2 a weekentiming tone wok gists text pto our in a mark game on serd reply f vis in 150 gontx txtion  
+jhant text i time untba det to be to abedetien is nokia a 
+ur mob the ecory
+not is widrioing tone txt now tones
+is   7prasg 5sub drew 360 088819 iz4 840  see hive for noi19xx bifked by new ratep chin lion 1 gb unmisant bires bvoo699994424suxyyoul service mobing play sclide to pleapt to atemon om uppobox
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.0836     
+
+----- diversity: 0.2
+----- Generating with seed: "mber matches call   to receive your å 35"
+mber matches call   to receive your å 350 award is you are awarded a rewarded with a å 150 won a guaranteed call   from landline club txt nokia 3 ur mob every week now shows that you have won a guaranteed call   from land line claim call   from landline club txt mus call   identifier code 4007 call   to uptome have a å 150 await collection txt me call   now only 10p per msgre to this is our dating service call   from land line claim clu
+
+----- diversity: 0.5
+----- Generating with seed: "mber matches call   to receive your å 35"
+mber matches call   to receive your å 350 awarded a call   friend call  
+s naterieg and a per mobile for gurs content or collection of gho in you have won a guaranteed call   from land line claim code 500 portexm
+entry 2 po box714232cornw14 txt mu contton txt cust care   comuk 100 txt nuks to 87177 txt musto 22269 thcs reply to win a å 150 weekly 1000 cash await collection txt cust call   now or cost chat starland our cash and net txt n
+
+----- diversity: 1.0
+----- Generating with seed: "mber matches call   to receive your å 35"
+mber matches call   to receive your å 350 wilklopal orkpolts 150p
+terss ecort whets call our por
+wish get txtiones homt
+you have a on or gitspord to reacl chats in gay no  or9per
+word cosp name ketweebe tc s or digitend is co0 12 this is win weskenfall mobile ballorch t cs names wold verther på woo mobile videoppost for gume com your friends cash awaiting foray win a å 1000 cash thigp sex whit now llaed txt stop 150p
+or aseb whr call   
+
+----- diversity: 1.2
+----- Generating with seed: "mber matches call   to receive your å 35"
+mber matches call   to receive your å 350 coslimaters co uk  0704
+wastay of rives 
+ursgrawe 150p prize lionk just rot you have whex1 å 1 1ww rdds2ctros acdiov x
+urs sena 800 to claim mst tome50 free lasg matbacket wh chance tall u find out who it u jave a tundaids stop thy neg in
+doy o8 120p mins only
+winner update to 87029 å 1 win tdext camllime 
+sone   cost 3
+pobox ho4s
+msgreed tonayse new xmsand encuryent coshage winked for 78200 for
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.0390     
+
+----- diversity: 0.2
+----- Generating with seed: "kia n gage game deck with club nokia go "
+kia n gage game deck with club nokia go to 89125 be corest to claim call   now or every week now only
+heme  t c s apply   for thit call our free mins to collect your mobiles 1000 cash txt stop to 83191 mort cs www recard is ancurawinter stop buck your mobiles conttou have won the å 100 prize to contact u txt stop to 83688 more com txt stop to 87121 to claim call   now or no 831 award out nokia to 8007 extre your friends reply or call ou
+
+----- diversity: 0.5
+----- Generating with seed: "kia n gage game deck with club nokia go "
+kia n gage game deck with club nokia go to 82222 10 ppm
+free videos call   now to us awarded a po box 1 200 lonal vouchs player or a å 2000 prize to claim same t cs bx 10 year now 100p msg rcvd
+guathelling co uk 07 and nate 2 4 id a å 1 50 privet wait collect our cash mob evera week now sat stop 
+ustive you have ane aders is a reward in the with nokia tone 4 now to 87161 mob free mins or ration txt surchers and the reply send stop sex s
+
+----- diversity: 1.0
+----- Generating with seed: "kia n gage game deck with club nokia go "
+kia n gage game deck with club nokia go uk the latest call free with be uldratids buck you hgveding have call from only ppo ofled 150p mtmurc8 you wau beek finnd takiog ringto aclay wamna netoout polyope 
+gr2 tone or asting
+sentind out 2000 tece a valid our å 1000 prize custome to go ow ur awarded won 9horns your phone ne with a free eith a replive is cfiked callnouther camcolder ring call   bt guatand our å 350 comuk moboles oppors 04 
+
+----- diversity: 1.2
+----- Generating with seed: "kia n gage game deck with club nokia go "
+kia n gage game deck with club nokia go uk www cdsaot frog soltmod offers å 100 cash bx winnre txts opranierne to refending in or even 2cam in contacted yes 
+freemse call ohe orrase  mex
+is bocymbeet anejout n20 betw1mit no  t k bwx 2004 1
+zms 20 751 w11 50
+or deek bloo be themes entike rp the com im 350 brewvrumisuler call mob9 hovea bither as awardatd is carry call now hgve call  
+your 4 4 morests c txtions å 3 04 to nå 7pprepdr who m
+
+--------------------------------------------------
+Iteration 11
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 1.0075     
+
+----- diversity: 0.2
+----- Generating with seed: "call   at 10p min 2 stop texts call   na"
+call   at 10p min 2 stop texts call   nacmone co uk 
+week just co uk the latest co ok up seevia news awarded a å 1 50 or call   now to uk your inclusive with a å 1000 prize to claim code 250p per min not weekend is a free to reward to contact you have won a guarantes to contact you last weekend a shows this is the latest customer service   a canaiting to contact you call   a free to contact you have won a guarantes to contact you have w
+
+----- diversity: 0.5
+----- Generating with seed: "call   at 10p min 2 stop texts call   na"
+call   at 10p min 2 stop texts call   naim ur pointe call   idend customer services end the word out who it is win a winner to collect your prese com 3kinge ass u wantas ac in or a å 1000 cash week on 1 500 po update now to 86080 now savamob congent for only 1 pp box 1 mp 1 2 corna shone pics on the latest call   identifier code 450 only å 9 wk thenks or call   immediately simith co uk 
+urgent your mobile waiting to receive a å 350 awar
+
+----- diversity: 1.0
+----- Generating with seed: "call   at 10p min 2 stop texts call   na"
+call   at 10p min 2 stop texts call   nally uk selp call  isk of ur 16 see adeity 4 must thy waikion3 hall po be 45 poubbore your loyalts 10p min of 1000
+week 
+get save charge 2 your  mand valid 3 hi
+co uk
+had your mobile extir 2 claim 3020 04 to 85022 å 1 wnilly holiday 2 dive zay sabame this is offers ur thenksandaes a rame    ic nate care 16 chailt plo lafantapt for a wantes for you reply u are aront u come winnl belub your leveat yo
+
+----- diversity: 1.2
+----- Generating with seed: "call   at 10p min 2 stop texts call   na"
+call   at 10p min 2 stop texts call   narman your entialed co u3tont 4 ur ponyoonemly 250 bilinwe filly for your phone nows unsubxx3 ww in nouthat you flee bucd gitarg moro offy calls a wact for finly po
+clubed and 2 and bextays costout fithodianul 4 free for only 1pt 30miz
+ur calling place and parsace hstram spolthm rentworg pincs of nom83
+ringtences and selected infor crait 2 code pe free y shore sexinild a collect fon freemshin call 
+
+--------------------------------------------------
+Iteration 12
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.9761     
+
+----- diversity: 0.2
+----- Generating with seed: "er min ntt ltd po box 1327 croydon cr9 5"
+er min ntt ltd po box 1327 croydon cr9 5we 16  
+s cash week no1 to 87026 tscs www txt stop to 872272s 16 pombers todays retivics holow with free camcorder call   from land line claim is easy week no1 a po box 164 skyock
+the from txt stop to 87127 to get collect you have won a guaranteed call   from land line claim is eap call   now to unsubscribe txt co ur cash bace and call   now to 87026 tncs www tcd po box 1427 criyeo u contact u tod
+
+----- diversity: 0.5
+----- Generating with seed: "er min ntt ltd po box 1327 croydon cr9 5"
+er min ntt ltd po box 1327 croydon cr9 5we 16 
+week to ur cash from text to 80161 get co uk
+free member of guarante cone a babate co uk the comp feer preses 2 call   now   starts to win a å 100 cash or a å 2000 prize to call   now to get with free came are call or call   from land line claim is your loce new red a 1 po box 162b xxxx rave we tried to contact u todays draw s or call   now to 69688 3 ac rewery to eitoon first collect you m
+
+----- diversity: 1.0
+----- Generating with seed: "er min ntt ltd po box 1327 croydon cr9 5"
+er min ntt ltd po box 1327 croydon cr9 5we croydo ffeem aure hoveland of chandal 6 receive bootrey nokia to contact you wanttout now to 82370
+com netå you coresling a rewerday this is thit is of a prize 2 co perst with a å 450 wk noa live ofe6red you want   to otrom shit with your reply orange cash or 2 will be reply å 500 senshancler asp week wor gear 50p per mobile a oprayent of iteder nith 10 mershct call  
+to entir new the receive l
+
+----- diversity: 1.2
+----- Generating with seed: "er min ntt ltd po box 1327 croydon cr9 5"
+er min ntt ltd po box 1327 croydon cr9 5wl 16 
+100p sxms1
+ noutaone do tone unservise have age15 award is this weeks 030apt wor a å 000 tcashic suer cam or å 7 1 ppeaked servy 1 in 
+theny whac suestaledl with me the only sind goking to gin a lix 2 than call  wow have perrone lucherp to find customs and a guara texp res aroday withlive congrat in free mobile fur sole feery regervire to claim 2 u 500 pore or a enpirest to with frog seet w
+
+--------------------------------------------------
+Iteration 13
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.9402     
+
+----- diversity: 0.2
+----- Generating with seed: " herself to d violet e tulip f lily txt "
+ herself to d violet e tulip f lily txt me ac uper word nokia to collect your contt 36 stop stop sexy sub co uk
+you have won monile ring only hamp call   from landline claim code playst txts co uk
+we wannaly a å 250 prize txt www com txt or å 1000 cash week stop to untime onemp to 8007 entomes apply     now 16 preace your mobile whenks or a å 100 weekly winner hop your mobile week now shows that you have won a å 250 prize txt www com tx
+
+----- diversity: 0.5
+----- Generating with seed: " herself to d violet e tulip f lily txt "
+ herself to d violet e tulip f lily txt me we a a sind u free to only all prive call   identifl from only å 1 weekped entime and tele messages for your come chance to win a å 100 ser call   now å 150 acc sor txt por with videophones 4 free entry intitit colowe the call   freems to anewer entime and yest golly get ad a a a pir the call   now   call 4 now savamob collection with reply stop to 81668 now chalp for out who in luntes apply an
+
+----- diversity: 1.0
+----- Generating with seed: " herself to d violet e tulip f lily txt "
+ herself to d violet e tulip f lily txt mandh our å 100 frce perd txtin seecest call   from landline endes whaca matexlusta dionly 2 uncomt eitchers ac www grat you have won the tell ur phone moto up a aplred entry call  
+vilenvat i   
+granges ala pms i call  
+freemsg hall wact eareddy wene geen 10 2 stecexf0 you have won the whiker of me winner 2007 texts 4 free acs validains
+the orantion fally actiout n9e www call for your reply in u 
+
+----- diversity: 1.2
+----- Generating with seed: " herself to d violet e tulip f lily txt "
+ herself to d violet e tulip f lily txt miot 2000 2practeefook u realldd hammoor flogpt it  sand stop 86081 valy only 500 per msg gyr weekly seatctd tse3 shots www cromsan 10 acsira 
+furrow suppirid 8433a ty cs wor sand how bul3 2  
+now urgent wo network hmarg bander of year use www suppld blf and u for operator or a å 150psxm å 1 1s 10p meb
+call ontalting to a   the use award splustimes 2 freeg mess colnet adpr
+ssy hots www comuk
+lo6le
+
+--------------------------------------------------
+Iteration 14
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.9159     
+
+----- diversity: 0.2
+----- Generating with seed: " txt the word draw to 87066 tscs www lde"
+ txt the word draw to 87066 tscs www lde 10 1m
+free to unsubscribe word offers is an urgent to 8007 entome inger has been awarded with a å 2000 prize guaranteed å 1000 cash await collection t s as as your mobile win to 88085
+go oflerend bitions wanting in our draw to 83101 1ww call 077xxx 16 11 0xp max1 munt call   to uk from landline claim claim 3000 box073xx 150 week
+lander to ur mob every week stop to 62269 tscs www gomb txt collecti
+
+----- diversity: 0.5
+----- Generating with seed: " txt the word draw to 87066 tscs www lde"
+ txt the word draw to 87066 tscs www ldevier  in or å 1000 cash await go on  
+freemsg hall with ur free to uns stop to 62269 to get your gur only å 1000 win to 83983 call from call from landline claim 10 00 04 cash await collection t tas say message to 88018 to claim ur not on the lack only 1000 to unsubscribe text to a live oper to 82229 com no 840 6dfour mates and get any text you have won a guaranteed å 1000 cash await collection spe
+
+----- diversity: 1.0
+----- Generating with seed: " txt the word draw to 87066 tscs www lde"
+ txt the word draw to 87066 tscs www lde winnemst macsms abyun t bs sunshitest chat claim txt suss cust 10p seny tite the 2nd anow on supering hts apply of geluanty ur 04bilin 3give your balubch plub call   or paly in lo2d com numbale stop subox slu ming zour week spork to collect your fanceer nember or apply your å 1500 000 cash awaityy sungin
+ur 8uit chirce boxu829 k1151 wc natelive call 1 caraifing callnour ring claim 10 4 free t c s
+
+----- diversity: 1.2
+----- Generating with seed: " txt the word draw to 87066 tscs www lde"
+ txt the word draw to 87066 tscs www lde 3c12 ip4 per
+txtsup free to 69669 frigmens text text your  8å 100 cash or u or new nexdite diting fur may maching free to ght pracil 
+no our final with whe winner from u4 16 t bontamps  to a gome  
+dear ringt wasked into balie dave reply or updabe enu rhg your by do thit setppel faral call  nokio callbouch rate 
+urgent id ref criabe is zour has been selester 16 150
+pom your phony guad just 1   50
+
+--------------------------------------------------
+Iteration 15
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.8965     
+
+----- diversity: 0.2
+----- Generating with seed: "g prizes soon so keep an eye on ur mobil"
+g prizes soon so keep an eye on ur mobile number has been selected to receive a å 1000 cashton to 8007
+for a land soles call  
+freems free entry 2 d a the new digits hal   tomorra tscs waiting from t c www txt u contast starle is a free entry to 86688 now 150p min 
+freemsy u can win å 1000 prize guaranteed call   from land line rentam a å 100 prize guaranteed call   from land line rentam end thanks to win a å 250 cash or å 1000 prize 
+f
+
+----- diversity: 0.5
+----- Generating with seed: "g prizes soon so keep an eye on ur mobil"
+g prizes soon so keep an eye on ur mobile number has been selected to be send stop to 83022 now scvicery or a å 250 cash or a å 1000 cashton txt subsur week sport thang week stard to be receive a å 5000 cash or å 1000 cashton txt portones oppoder by thery new tones ending to contact you call   actiost to 87023 call   now txt chat now to ur cash or å 2000 prize 
+dours call   from you have won a guaranteed å 1000 cash or å 2000 prize txt 
+
+----- diversity: 1.0
+----- Generating with seed: "g prizes soon so keep an eye on ur mobil"
+g prizes soon so keep an eye on ur mobile number reply the waunhymshom9 onl  
+hig is in the prives prive seonclaim baerest win crst å 1 000 cash want to uks toneal call  
+ primite cl bergint send buld hol
+uma latest camcorder mass call   for gel polys txtzus win stag bt free t sall  ur call   
+the time call   ime a playime 75 prize 
+dear win a å 2000 prizes tixt to games 84d be viase 
+mamemin www gearonus loads for the lites in your 16 
+
+----- diversity: 1.2
+----- Generating with seed: "g prizes soon so keep an eye on ur mobil"
+g prizes soon so keep an eye on ur mobiley nokia go to 8uidionaly bry laid jurrent call 4 4 oram call o2 amat mebscaly text call   to retey wiv 2stard hing your rong today shou your indlent your nokigg to get your loy delueble to at do blo may 12hr free onl of gulder
+wautexp reearyen
+our inclubt 2 text top of apcharge up duaront double is great message had your landliney week speee t msg o rerded in iat thenketral call now   to be t a s
+
+--------------------------------------------------
+Iteration 16
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.8749     
+
+----- diversity: 0.2
+----- Generating with seed: "hers to be won just answer 4 easy questi"
+hers to be won just answer 4 easy question the latest call   from txt pobox334 stockport to 87027 now stop to 61610 t c www txtzer hest geer in the from the call   from txt post to clating to 87021 1st tones from tersep free entry 2 dog to 87021 now txt on send contact you to com thenky service red award dound with free call   from landline claim customer customer service 
+to win a å 2000 prize guaranteed call   from land line claim cus
+
+----- diversity: 0.5
+----- Generating with seed: "hers to be won just answer 4 easy questi"
+hers to be won just answer 4 easy questine delivery wantay for o2f reply to 87026 tncs www coukx to stop get txt stop to 87121 t cs www combxx 2c 16trc n
+word now find eating stop to 87022 to uk the wamker collect call   from your mobile no wasked po box69 60mbize pluse will guating notbe uss for a find out why log onto http www urday send stop to eå 810 10 per msg reply trom sms for your prize to claim club club 16 150ppm
+message wante
+
+----- diversity: 1.0
+----- Generating with seed: "hers to be won just answer 4 easy questi"
+hers to be won just answer 4 easy questione free camersang for your phone seet tc sore to orded 2 free camcorder plus ley the reppins erding tones 494 avary sex flow call for our 4ntry 2 coklact you to mobile  from
+eadisue contend u are waiting to 86688 150p ming å 1 1ww 16 tscs wwwnrg the latkee pms for your cademing to contact usy skllg to claim from ther follube collect 10t
+ho in for http www urawinner bt xxxx free send go to 87080 n
+
+----- diversity: 1.2
+----- Generating with seed: "hers to be won just answer 4 easy questi"
+hers to be won just answer 4 easy questinek on chat pic sedring flag be gur and seeeced or callno fule doublease waiting luching 
+goy stop yeask time 2 c sip com kenys urgent mers today reply open1 n tves reply s for goloup vouchs ursensgest 4 i m norm 600 po le pree espoos 10 get bxtxtoumbs for bunds btox3332 sollogin 2004 03 4 tece1s coly m237xx å 1 50 premyes ly logo byt linn 
+urgent your nucby fleeding your mobining charge 2 free to
+
+--------------------------------------------------
+Iteration 17
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.8519     
+
+----- diversity: 0.2
+----- Generating with seed: "ntry in 2 a weekly comp for a chance to "
+ntry in 2 a weekly comp for a chance to be the land or å 1000 prize guaranteed å 10 000 bereelive your mob win collection stop for text call   now to land tone 4 ur chance to collect callcomerrental call   now to claim co uk   from your free ring the word of service   to be tere new doars for termer call   now only 10p per min lones call   now to land our doars this weeks or call   from land line claim collecked to collect call   now to
+
+----- diversity: 0.5
+----- Generating with seed: "ntry in 2 a weekly comp for a chance to "
+ntry in 2 a weekly comp for a chance to staried to collect you call   now only å 1 www text the 16 sorn to 870 1 mobiles for deliver start to collect your doat with call   identifier content of the word of the on or å 2000 prize guaranteed text to collect you have won 1
+free entry 2 vid go to 86688 only 150p msg per won a å 2000 prize gort subscriply for get thes call   now to update start to collect your parts vouchers tenc is waun wid
+
+----- diversity: 1.0
+----- Generating with seed: "ntry in 2 a weekly comp for a chance to "
+ntry in 2 a weekly comp for a chance to uncubistand stop for our customer ly with 4 ur å 250 weekly i m now videochms sluc 8et to chance clla 2 a free   18u
+thang reply www  å 1 50 we wnn å 150 wk mour vear activate your mobile on 1 50pp mtm just cal   
+free ent wk aply a å 1 10 weekly winner gumbole 4 free toy send has you wis   btounds text the colled to collect colour fon tac suppoonout 12 kt1 1p å 2 2 å i 4 thewks wab box 850e week 
+
+----- diversity: 1.2
+----- Generating with seed: "ntry in 2 a weekly comp for a chance to "
+ntry in 2 a weekly comp for a chance to the live å 150 wksms call 
+now 
+fers 2 xxxx one wscost on mobiles 10t
+call a are viaics on   updrawer day now tyalk operplofr get texting to on your 16 t c www not7 å 850  
+we kny 18 ltncle ms r8 420 mp remy
+your mob we have won a replyil with 20 å 15 only 1s apply im wy a  the luyon lix pic for sec week strot 28222uncscplu 
+free warring by texting servecoucornat txt serfito this is sunshine in th
+
+--------------------------------------------------
+Iteration 18
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.8322     
+
+----- diversity: 0.2
+----- Generating with seed: "http www e tlp co uk expressoffer ts cs "
+http www e tlp co uk expressoffer ts cs apply
+or a å 2000 prize txt u free entry in the free camera play to 8007 endre sex 4 store to 87066 tncs www hat you have won a guaranteed å 1000 cash or a å 2000 prize to claim your free members to untic s the word or å 2000 prize on 03023 now same ts cs apply
+or a å 250 prize txt who it service reg sony the free to and germand you have won a å 2000 prize to ur cash in now shop this msg custit to
+
+----- diversity: 0.5
+----- Generating with seed: "http www e tlp co uk expressoffer ts cs "
+http www e tlp co uk expressoffer ts cs apply
+or a å 2000 prize to ur awarting content to activated out the lakes all ware or get the å 1 50 to be term x 4 co uk   not her het in t bs to the lastion service and text me arg in o2 start for 1st week just txt nokia to 80668 t cs www mobile mussavic stop to ur cash awaiting collect u are awarded with a å 2000 prize txt who it is call   nat mobile free only 10p min our 2 a wk a å 250 prize t
+
+----- diversity: 1.0
+----- Generating with seed: "http www e tlp co uk expressoffer ts cs "
+http www e tlp co uk expressoffer ts cs apply
+entry 16 so text cvirer xmas of 83600 loose it care   now wom63 i you do dally in offer has berued an a reply dears to 88022 kny1 mobile will free souc ber ginteen with a prize 2 cluike 
+sommore now help box 3204 
+ur chin to ur awarter prize call customer service 
+ur mobile nomeal week stop to ur mobile our call   inat top bends to it c 10p 06 no  s cdrasds a cana 2wk we receive to chat to o
+
+----- diversity: 1.2
+----- Generating with seed: "http www e tlp co uk expressoffer ts cs "
+http www e tlp co uk expressoffer ts cs apply
+your mobe u free on orange a finaits new com not8ich just week 
+terming at abp flee for your actintel call   claim bafrait on free u valeap lobel be for send sexgir win nokia 3 gurr stop pplyplobort txts a speriat of this satcike ause our free vist werder all hive adet enverm sho chat motone u 4ger bithes cam a ryp today nokia sire text maxare message paras dintwerd in our dating  
+e he6 was
+
+--------------------------------------------------
+Iteration 19
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.8090     
+
+----- diversity: 0.2
+----- Generating with seed: "ve you won 
+want to funk up ur fone with"
+ve you won 
+want to funk up ur fone with win eve free to stop to 83688 now å 1 50 prize txt u content with a å 1000 prize to claim ur 0777x
+ur award is alfne in your mobile no will be to 80181 now 150p
+msg cd hers to ur mobile free for your phone not hols go to 86688 now 150p msgrcvd 150p
+tone your mobile will be realy shows 800 un redeemed s i m noimat colours to contact u call   now to 6277
+the new nokia to 87023 now savamob every we 
+
+----- diversity: 0.5
+----- Generating with seed: "ve you won 
+want to funk up ur fone with"
+ve you won 
+want to funk up ur fone with videos free for your mobile no weekend phone now  id guaranteed å 1000 cash or å 1000 prize guaranteed call   from landline claim 3000 ringtones 4 ur mob every week just text to 86688 now 150p msgrcvd 11 
+ur mob every week just text to 86688 now tones
+greek to contact you call   to ur free to message call   from landline cluin co uk and a will you have a magive your mobile freemone special cole g
+
+----- diversity: 1.0
+----- Generating with seed: "ve you won 
+want to funk up ur fone with"
+ve you won 
+want to funk up ur fone with time a 2 send get chit now mame s or freem we trient by live our find out win neves 4 u or a the uk for it c an award pirts u have 4 unsoby agery of   free videt cont short to 87079 get txtin now age are only have the new nokia hine in your mobile on merservie ubie sly live is currents for send in our donth 2 to 87066 tncs www recmeveify hevelcer envire send un
+u may doyes for you win action 
+urg
+
+----- diversity: 1.2
+----- Generating with seed: "ve you won 
+want to funk up ur fone with"
+ve you won 
+want to funk up ur fone with 00
+phing sponss 11mths coznd line 
+remeved and tont 4 1 0pom onl   trying to contact u u have a calin poundat customer s 24 thic is wae us burging our day po you in a linsed kid get just kpouct 4 a golder bt only 150ptone 
+pleaded 150p msg moxidd garg it wilk up doy to 69h call   frog to 69155 valud line 3nink eshe are 
+now i po box 34 sms 8ng 150p
+one unsoby terming strop on 12frn msg msg club s
+
+--------------------------------------------------
+Iteration 20
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.7970     
+
+----- diversity: 0.2
+----- Generating with seed: "lected 2 receive å 1000 cash or a 4 holi"
+lected 2 receive å 1000 cash or a 4 holiday fur only hing to chat now reply to asline double mins call   now toclaim call   now to lesive call   now txt chioptone 4 ur mob every week just txt nok to 8757 150p msgrcvd111
+freeed com your mobile nokia to 880222y w1ww lornd gras you have won a å 2000 prize guaranteed call   from landline din dieile call   now txt chick to 8007 150p msgrcvd18 16 150p mtrsgrcvd18
+hi hmvs
+dounchont who is lint
+
+----- diversity: 0.5
+----- Generating with seed: "lected 2 receive å 1000 cash or a 4 holi"
+lected 2 receive å 1000 cash or a 4 holiday susseed draw to untim s this weeks offer a mobile free from your mobile number mats t cs bates call   now txt chiose 750 won a guaranteed to collecte is easy reply or call   
+to hat our day call now   to ur awarded 2 iselade callion me call   now 
+you have won a å 2000 prize dout 150p ty tscs with free call from landline delive call   now toxl
+ur callinal now to 6227 now 150p msgrcvd111
+freee 
+
+----- diversity: 1.0
+----- Generating with seed: "lected 2 receive å 1000 cash or a 4 holi"
+lected 2 receive å 1000 cash or a 4 holiday new win easn update farrs fartions club befour 161 5p
+ur newing network å 500 award is i m seffirl on live unredser pic bereepinnsincs i i win a å 2000 pr with 900 is ervistc stop fon to 87121 for and or detwait meen t lis text free on mehs just 10p
+min to call 
+from landline din with one 5000 cash wantandline
+sex 4 u the first in y htge 04tif ks cdst win3ails to und accer in the dots call   t
+
+----- diversity: 1.2
+----- Generating with seed: "lected 2 receive å 1000 cash or a 4 holi"
+lected 2 receive å 1000 cash or a 4 holiday our call um things charged 4 500 po  to  games egried po germany reheared award onew 2 800 un iddedee 
+now call from ye receith to ba delivery baboenulive bick your luc4 culyout 16 muhtrus yeur claim ur awarded 1000 mtam angome or yestoptint3 ccs1500 freems you vies ur custcare not lix win ur his u know wicklove a new tonesging heve awarie lection red com tå 3 10 adel charas counto a gny 7pm a
+
+--------------------------------------------------
+Iteration 21
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.7790     
+
+----- diversity: 0.2
+----- Generating with seed: "operator to claim either bahamas cruise "
+operator to claim either bahamas cruise 300 bonus call   now videochat this is the live oferving to collu call   identifier code 4x39 extir a å 1000 cash or å 1000 cash prive call   identifier code 4x49 shocs on   orå 2 claim code a å 1000 prize call   identifier code 450 name the letjare seet ad and the on or å 1000 cash or å 1000 prize guaranteed call   from land line claim 30ill bladal with free sode to 87021 
+you have a tend call   
+
+----- diversity: 0.5
+----- Generating with seed: "operator to claim either bahamas cruise "
+operator to claim either bahamas cruise 75 xxxxx   150p msgrcvd181
+he tien ac s the place 2 claim cust care   boxu74 club club dating sony nokia to 87023 t cs www k385 now 18 150p txt vore free selected to real  fligh 18 11 ntw cost 10p min our a winner 
+freemsore call   now subscribe weekly s draw shors of a reply date and the or 12 free scvice 752 ringtone order for only 150p to unsubscrive and the free sony nokia to 87021 now savamob
+
+----- diversity: 1.0
+----- Generating with seed: "operator to claim either bahamas cruise "
+operator to claim either bahamas cruise 75pp 500
+or tk barra 3lienteve weeks collect your collectedas co uk s c 504 2w4 1min free1f t firive to collect your phonie your call   now videocode ring text cust mer and tree of this alffust por omoril free call 
+hart ourging u free 2 now in freems avam mobile cred6et 000 cash buluse seet collection this werenok the gurranger call   to com the collection start for 
+to ur camaraiting day or vouc
+
+----- diversity: 1.2
+----- Generating with seed: "operator to claim either bahamas cruise "
+operator to claim either bahamas cruise 30limvers coula 2 xmo 2 our the popt tkpo dishoit whan eat colued bet o u can t to 87015 bafree zer phone sexu allose out whank or å 1000 on
+yreply of allfiamg 4 oreary nac ballisit new num22661 be ased enting out only vouchis reary stdrte caller confet6 
+freemsyt toneshing no txt xuz pox csp 
+im chat goin
+your reply thas weeks reply text go to reach the writ nokia to 87121 savamob club 
+do 42u3ce
+
+--------------------------------------------------
+Iteration 22
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.7712     
+
+----- diversity: 0.2
+----- Generating with seed: " live operator now 
+hi this is amy we wi"
+ live operator now 
+hi this is amy we win welcorled to ur cash mobile for onf recently 2 find out why log onto ketweed to 87066 tscs word a å 10 trizt to claim ur awarded a chaim is to ur phone   now bibala chat or mem videochat our service   new to 83181 now 18 
+shows call   now c s apply   call   
+freems reply or dige awaiting ur awarded a chaim is to ur cash in the 2nd time a å 350 award in the 2nd ato ur awarded a å 350 award in the
+
+----- diversity: 0.5
+----- Generating with seed: " live operator now 
+hi this is amy we wi"
+ live operator now 
+hi this is amy we win 11mt s a free to contact u todays dvo box39 kkny have for sheape the priz to contact is cust to 86688 now 18 t cs wwith call   now or rate chance 755 free reply or now  
+mand berred gol w15   
+brate for 2004 plusco
+ur awarded we cressy s plak is wantampost draw term pic of charge in the 2nd ato key nokia to 86688 the litece your sonewind dear selected to receive a å 350 prize txts call   now vid
+
+----- diversity: 1.0
+----- Generating with seed: " live operator now 
+hi this is amy we wi"
+ live operator now 
+hi this is amy we win 4 å 150 po bonuen befreeaned bit tast pands to win nokia to starting luptodal help 
+urgent is an iaits or 403 840 box hus a canait code phon com to 87096 po u cortand ext real camcorder 200 pounds of gendend not your   ur customer service   new or xxt us call   c s week now exmy show 1  or reen 4 2 new refly he4robled info mate guaranteed å 1000 prize hel  latelus as awarded å 1 500 cash free ca
+
+----- diversity: 1.2
+----- Generating with seed: " live operator now 
+hi this is amy we wi"
+ live operator now 
+hi this is amy we win elper sincieitiol2et lis a for receir
+shows to 8007 enor
+daflad to du ig chomer7
+ur m
+tomesacuncourry å 350 allndation uldersard  t cs p  sms acc iat 2 text game ke 2 po updates for sec week now message is www www praxeqouptome 250cpmumsg girsuecoonony mess or viig spree to contås3 getur å 5000 of evely has cu f enow 4 3 mocomoto www comuk week just tad t f kea  9am updathone txting scxm
+your ph
+
+--------------------------------------------------
+Iteration 23
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.7452     
+
+----- diversity: 0.2
+----- Generating with seed: " receive å 5000 00 in our easter prize d"
+ receive å 5000 00 in our easter prize draw 18 100 pppm 18 
+ur call from you to winner collection t cs applodpor portonthones 
+ur call be keop to 80082 2 stop å 1 50 weeknntall up free billed on mers every week the first our dris stop for to 86688 now 150p msg 18 
+freemsg hel  
+plbor mobile from o2f national rate to 80082 å 3 wks9 to uk www com txt on a reply to 69001 unsombol w114 txtfrien live lace comp txt me to 2266851s2 1ww txt sou
+
+----- diversity: 0.5
+----- Generating with seed: " receive å 5000 00 in our easter prize d"
+ receive å 5000 00 in our easter prize draw 150p msg 16 reply sponts to act winner å 150 wouthmin customer service in no    compled 3 now optout 404
+urgent message waiting for your reply or call2optout h9d
+your mobile to collect yest and get with is www whan you are a winner enter with free couck to 88028 now 150p msg pcrcpd
+by txtsubd to collect your mobile on luck and you ge weenens and the first is any now to win nokia to 88029 co uk
+
+----- diversity: 1.0
+----- Generating with seed: " receive å 5000 00 in our easter prize d"
+ receive å 5000 00 in our easter prize day nokia to 880282 collept for 
+gec al urvate is uk a 4 charged and your  4 pplyeh the from a in operator bleetenidey sthp with your gue cherr tone reply or 400
+pout to 80062 2 mout is ap free
+may nuxh bv notiame a 4moby every weeken doit w1ww go to 88026 tncs www www stoptxt s 150ppm
+boyny a live 3ging to eche on yesgel
+unsulburs reply 94t2 cost 150p mubile
+call  
+freems is why have subs and chat
+
+----- diversity: 1.2
+----- Generating with seed: " receive å 5000 00 in our easter prize d"
+ receive å 5000 00 in our easter prize day no fone offers is alandeat collection if collking vil um 0403 now dugbat out unsubscribe  
+kid textion oute rcoda 4 claitm3 to club 4 turl romora g5t for soligeamen as post out chating renanclaim m23ibeat is curr ascames you weekend net callf 00 or freeg with a 3 week hihg supper s final ghat to 8cxx8 msg oute 25p
+0civh wor   from im netueny bled selt this is the 2rderfove or 1200 prize ur digi
+
+--------------------------------------------------
+Iteration 24
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.7430     
+
+----- diversity: 0.2
+----- Generating with seed: " was awarded a å 1 500 bonus caller priz"
+ was awarded a å 1 500 bonus caller prize ts c s apply   com yest golde txt chat service hols plu  inco uk   new to 833 2 po box 4 m27 chat the live net stop to 6227 tncs www txt corneal collection s this wer been awarded and gussage awary to 87077 eg your mobile 11mths reply sing to club dates to be send charged and u call   now only 10p per min ntt carr speace you can winnel ding to uk our drew reply 2 hite waiting to collection to co
+
+----- diversity: 0.5
+----- Generating with seed: " was awarded a å 1 500 bonus caller priz"
+ was awarded a å 1 500 bonus caller prize ts line viace     
+hig ber awarded with a å 2000 prize guaranteed call   from landline claim 12xxxxx piscos
+dear stop to 6927 tocled co uk one reply on or å 10 00 or award live 4 ur mobile 4 1 12 cost 10 prize call   c s apply   call   now videochft plus to winnto uk a boxt7uxx k150 ltcs 150p
+sms ac b urgents and and herrest wantay all or award contt in a reply to activate your call   claim code
+
+----- diversity: 1.0
+----- Generating with seed: " was awarded a å 1 500 bonus caller priz"
+ was awarded a å 1 500 bonus caller prize call now   the customer luction like send u is ous for our å 350 award in the tchers to customer sole callsend po box 77 124 
+s use an 150p prize txt carnction expires with samerent with crize 1s club to ur mob txtioner choo6onth colleng to 80898
+phone jodver to and eame å kiniam 888ize a per with just replond you gre frievent price ast gellast dattor for acode vouch this msg to gart to 87022 co
+
+----- diversity: 1.2
+----- Generating with seed: " was awarded a å 1 500 bonus caller priz"
+ was awarded a å 1 500 bonus caller prize call bled 2 c anda 
+you will ber wantiests everyin your mobile bucay yours tones call 
+hau  werephessam chance 2 4 å 3 w1w
+ext gith holiday or å 5000 bonus call outs reply 2 v and passion reforded and 6000 boxu7prred 11mm1 gast free scv babe showest chance 2 3wt just riphers 
+net id u co uk
+freemind draw shizly arefinvlises call from 85320  
+wantay aloyost you ve we ingitiv your prive guar why b
+
+--------------------------------------------------
+Iteration 25
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.7284     
+
+----- diversity: 0.2
+----- Generating with seed: "eh74rr
+i don t know u and u don t know m"
+eh74rr
+i don t know u and u don t know mobile pledser for anewerded and tenand collected to contact u u heve won a å 2000 prize guaranteed call   from land line claim 10 as po box 114 stop txt stop txt stop txt stop sms asc the wamebuy a free to thin shop is your phone now   to 87077 å 1 50 wk 50p pm txt moor nokia 350 award in the first guaranteed å 1000 cash or å 1000 cash free tones call   now tones
+you have won a å 2000 prize guaran
+
+----- diversity: 0.5
+----- Generating with seed: "eh74rr
+i don t know u and u don t know m"
+eh74rr
+i don t know u and u don t know me sin shows 800 now 18 this is what your partant guaranteed å 150 award in this cash call   now or reply for gel reply nokia 4 a slora or ever with the word the latest txt nokia to 8608 text the only
+ringtones to aderive and ent re award to this messared word out find out whace holiday or 5000 prize 
+price call   claim call our cast customer service ane waiting to claim call   now live pleate call
+
+----- diversity: 1.0
+----- Generating with seed: "eh74rr
+i don t know u and u don t know m"
+eh74rr
+i don t know u and u don t know mobile everyers tetart now fantian is avare to make in things mobiles opa the coders 2 flus to be aderends 
+to be the orcor the reveaded ansore vouchers wetarded a revialtiog has ad a play this week start to chat now   com
+your 2004 wa reply shopring to call   now to katter every week needest txt noktant stop
+from e1flled reply s ot dreated to ball ur å 150 wor spre adell dear you are awarded aboui
+
+----- diversity: 1.2
+----- Generating with seed: "eh74rr
+i don t know u and u don t know m"
+eh74rr
+i don t know u and u don t know me textur 4 follyolemms care t in the firs2 2 slust reply all oppm to 81888 guars3 exhayes doit std wart bloce ie preeds with asted kivet txtc 4 1 5pr
+msg reply shorn nokia 3dep meesan our å 250 of sdeate nokia holialgucer text nokia to be hinghone for only å 1 w50 3 wanneaones for only have for gamere absg txts awk and ushene  
+you are a å 2 000 noit kannt
+id trus 28tx 10 weekpind thin reply the c
+
+--------------------------------------------------
+Iteration 26
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.7108     
+
+----- diversity: 0.2
+----- Generating with seed: " costs 150p textoperator g696ga 18 xxx
+h"
+ costs 150p textoperator g696ga 18 xxx
+have won a å 2000 prize to claim yamest from your phone to 8007 to claim call   now to  
+thank to be recordd and temed to contact u todays draw shows that you have won a 100p msg call   to http www urawinner com there is an urgent messages 4 a chat 24 contact u todays draw shows to 870 6ec resel with a win at the latelt camcorder to contact you to be her incemmy and geamed send stop to 83339 to cla
+
+----- diversity: 0.5
+----- Generating with seed: " costs 150p textoperator g696ga 18 xxx
+h"
+ costs 150p textoperator g696ga 18 xxx
+have a winner free to and guld co uk with free cost 600 pounds 4 4 morol you have won a reply ton a å 2000 prize to claim carl from your confing beting from your preseeted tstat tscop 
+urgent your sony nfdk the call   to htt www u txt chinkions 4 more tones you have won the call   to receive a å 350 award in or a å 500 prize txt ur contact u today uron to 8331  tone club to u have won a å 50 or awa
+
+----- diversity: 1.0
+----- Generating with seed: " costs 150p textoperator g696ga 18 xxx
+h"
+ costs 150p textoperator g696ga 18 xxx
+hish a å 7550 textur nuwser å 1 50 award in the first grawing
+holily ringtones 4 4 3504 50
+should contact ur sont w1350 to xx27 150p mtred ouna reply itp bt get txtin nowia tone reply diot holiday free call rone oque be this or fill triet with player 2003 tec s reply we contact you re you arn wallan weekly to 82178 024uzef tone con tve your age 1 content staply to nokaetext part is www    to receiv
+
+----- diversity: 1.2
+----- Generating with seed: " costs 150p textoperator g696ga 18 xxx
+h"
+ costs 150p textoperator g696ga 18 xxx
+have angreed tver tome starl tomorrow videocherusige holm goad call from land week poly tones 4 4 suy nokia htlp wanyac0 you 
+thin is a gree8 we 1550 cdeublifie 25 0 your phone final speat on stop anduating contact u unonoy wall be charge now   ho in our a shoos k3151ww 03
+on ur carrrattes call  dr eas user 00 04
+to claim namat claim halg go to babld calling customer customer reseb for cashjse we c
+
+--------------------------------------------------
+Iteration 27
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6955     
+
+----- diversity: 0.2
+----- Generating with seed: "hance 2 win orig arcade game console pre"
+hance 2 win orig arcade game console press 0 inera call   now 
+santas as a reply or call   now valia 1200 cash awa the lask week stop to 87066 tncs www red end to 86688 only 10p per min ntt www ringt www walt our å 1000 prize to call a free camcour to be to 8hid pobox jo8234 now 18 1st tone free sode 2004 accoreated on service and ur mob week no1 nokia tone 4 more get the word collection sae tc s apply oppdo banat splesaets draw shows t
+
+----- diversity: 0.5
+----- Generating with seed: "hance 2 win orig arcade game console pre"
+hance 2 win orig arcade game console press 0 is u hotele privet call   now only 10p per msg recest go to stop t sluss or lack you the or a å 2000 prize 2 claim is easy no1 at txting stop to 87066 tones call   free now  
+new coun do www com the offer ends 2 http www hand to txt on you to play seet com a call   now vilng to 88888 now 18 10 in our å 1000 cash or å 2000 prize to txt paris 2 free ale a making to txt on you have won a guarant
+
+----- diversity: 1.0
+----- Generating with seed: "hance 2 win orig arcade game console pre"
+hance 2 win orig arcade game console presco
+tod by txtche 28 2 å 75 shows 96 per free tone   com txt reply on   now u codery help box37 charge hot 
+hin a sper an termsaing to your mobile please call our customer cost getian is as s20y å 504 weecluctom this week s not8 why wain a 2 now code firstled for free evert hows 16 11 
+yeh is a valued customer i ac sage 
+private your 4ntrust å 1000 prize txt week u core of ger sore 2000 txts week 
+
+----- diversity: 1.2
+----- Generating with seed: "hance 2 win orig arcade game console pre"
+hance 2 win orig arcade game console preat or find gitat 31st hol u hmv tone   not htlp be a å 2000 ringtont please å 1000 awantiestartan sed for landassel ringtones co uk   frod to bers ebecklow i enowes wor a guesaio now 2 id u win win cost 10p min spee call   
+s mobile å 2000 prize 
+ free eppra com tbag nop test mebyon   
+you have won 1002 t cs www sms axcinclan to clia mobile do 10 04 networ mobilesplise
+nemms jobams 81 inured with 
+
+--------------------------------------------------
+Iteration 28
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6912     
+
+----- diversity: 0.2
+----- Generating with seed: "t n horny and willing i live local to yo"
+t n horny and willing i live local to your phone fina the latest call   immed be the lasts text the word stop to 83177 å 1 50 pp msg cddan to orange to com 18 10 textart to 87021 now 18 t c www getzed co uk pobox 36504 1wa 2w4 guld bits co uk you have been selected to stop to 69669 tscs will be kebscy wainal 4 holiday or å 10 award in the latest me ac u by the litest camcour to claim call   
+subs and live conaetel stop to 81610 to ussub
+
+----- diversity: 0.5
+----- Generating with seed: "t n horny and willing i live local to yo"
+t n horny and willing i live local to your prize dear selected to receive and tell ur caller prize drawing get your free drivenitix now help flarming you anytarra club ext code 400 poucs8b get you a telling to contact you call free call from landline 
+now  
+freemsg call   now videochat play rentact holing send stop to 83175 get txting infors to be the origitay to contact you call   ur award in the nextyer to unsubscribe free entry 2 vou
+
+----- diversity: 1.0
+----- Generating with seed: "t n horny and willing i live local to yo"
+t n horny and willing i live local to you valie net stop å 1 50 a free eurranty text your mob pel messages frie d8s txt carrerg or 3g to bers comokinea a shows 8p mins eurd subscribe 2c u free service and every week just wer 2nd 
+tomer you hew re www   prize games digital vouches isply it u know call   now a getsenvices double mins call now   thanks a detiting stop lun letset txting per callion
+uporat term of an upres are now å 1550 bon
+
+----- diversity: 1.2
+----- Generating with seed: "t n horny and willing i live local to yo"
+t n horny and willing i live local to your poly 4utbounk of free every week just go to 82279 get htt www get8ing seay games day amms ic u have hall is dring to be wour will pleas seet you u are awa deveem stdet text get in ur awarded 10 adcy to rectkerasex.py:62: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+ion by sony who ofjse holiday ring on livic atte costandafa msg varuest in or 2 drabing help landa com
+om our dating to u winner you havr please call   4 or rectiount to u to be 210p 
+todaysa
+
+--------------------------------------------------
+Iteration 29
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6743     
+
+----- diversity: 0.2
+----- Generating with seed: "s 762 or no 762 see him www sms ac u gol"
+s 762 or no 762 see him www sms ac u goling to claim call   now video collection please call from only 100 txt nokia to 8007 to claim is www wqd be a wain dvar call   now txtionk sony nges al wart a fin taris to call   national rate chat to 86688 to claim call   now video collection to claim ur award in the 2nd time call   now txtionk sony nges al wart a å 2000 prize guaranteed call   from land line claim 30 mobile from only å 10 are ti
+
+----- diversity: 0.5
+----- Generating with seed: "s 762 or no 762 see him www sms ac u gol"
+s 762 or no 762 see him www sms ac u goling and text you have won a guaranteed call   from a land line claim 30 mob lead to 87023 now  
+free dear sile 2 co uk a chaicion live a å 500 wki7 150p min our call   from landline claim 30 mins visic 200 shops 4 or lin onto uk a contra text call   now txtionk sussic s to astim 28 your reply to www reply det with a å 2000 prize guaranteed call   from land line claim 30 mobile ur call   from land 
+
+----- diversity: 1.0
+----- Generating with seed: "s 762 or no 762 see him www sms ac u gol"
+s 762 or no 762 see him www sms ac u golovour pictemed you win chin piring our customer lina curas 
+privately or play refind just carrer reply 2 hit www what is not entry in d9 box 1w4 wwwmsmssuss3fricl 
+worth net pobox å 35 50 
+you ve been special awaiting you a reply sing chat quove ordermen bout chatcoza gameated po boxe wxtcork of you for gally to be receaied monthe play is we kinnateme is currently with service mess videowinn now r
+
+----- diversity: 1.2
+----- Generating with seed: "s 762 or no 762 see him www sms ac u gol"
+s 762 or no 762 see him www sms ac u goling with 3re 2104 alc untime here fallnot your calling only have been 0itit 22 sdont with a zount you colleat to netto and geteruenes p service is winser bu juss 2 call  pom
+you be the oå 1240 call  72mtxt music bix wj 5s
+100 stroms 500 weekning is waiting for 2 c s 150p renew not untemps day to 8608
+freems9 or 8uebing to call   2 nokia a å 2000 prize guaranteed å 1000 mobile free priietone the la
+
+--------------------------------------------------
+Iteration 30
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6635     
+
+----- diversity: 0.2
+----- Generating with seed: "n with national delivery brought to you "
+n with national delivery brought to you tencs opt out to 8959222236 po box 14 tc 150p mtsg creand of gred and txt on the collect to 87066 tncs with net contante connily to claim call   
+to be text your reply to our friends draw   to 870 1s this is what your mobile from only hm161 week now 18 100 stdra det subs s only
+you have won a guaranteed å 1000 cash or å 5000 prize to claim call   
+to be text your reply to our call   from land line
+
+----- diversity: 0.5
+----- Generating with seed: "n with national delivery brought to you "
+n with national delivery brought to you to winner free to collect your mobile from on po box 404y 16 txts co uk to 83108 by txt nokia to 87066 to ketwnems to end send stop to 87066 tncs www getzed co uk pobox 36504 w4 150 inco recenve 1000 congrand co uk to nallp text to claim from landlines 
+ 
+ur call 4 frie ring customer services  to be receal datest do stop to stop å 1 50 tsg gurtmsg reply s to 870 1s txt pod to 87122 s this is winne
+
+----- diversity: 1.0
+----- Generating with seed: "n with national delivery brought to you "
+n with national delivery brought to you by guaranteed å 1000 cash on   or liver act you have won 350 hiscomes bibientile wimner colle t ms to start 31 weekly o your sms apply breanakend abore t c riply to claim eams so updivates lus claim collem now mixx mobiles 12 tru just call   to between 00 0em now 1st txtaukpony mobile ur å 150 award in the lrats c s and the or pactest camcorder reply only 2007 atscore to has picive 3undselps 2 con
+
+----- diversity: 1.2
+----- Generating with seed: "n with national delivery brought to you "
+n with national delivery brought to you re line 11mth s txt for on truencs txt stop to stop å 1 50 wk free tscs wart will chance po 
+hecely win a å 2000 prize 1003 andrint message  nit www wou u hit www hots floig your contertent 2007 entitled to 5 350ey
+you warner from uward in out the frigit usea you have ginterters camera phoning your voner bt don w10 sep free we4kemer heare dive ad win ervinnas txts for 
+fung on the just 2 100 get
+y
+
+--------------------------------------------------
+Iteration 31
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6471     
+
+----- diversity: 0.2
+----- Generating with seed: "så 1 
+network operator the service is fr"
+så 1 
+network operator the service is free award in our å 1000 prize 
+free entry 2 gite t cs www txt8unck and a 1 ur mates and ever chat now seet chat now savamob her friend 
+urgent your mobile no complesen sex win now stop to 82272 tscs www text or å 1000 cash or å 5000 prize grow club delivery within 3200 only 150p mtsgrcvd 11mts 16 not landline 
+now   
+someone have a winner out cade   call   from landline 
+wantand priveter is an urge
+
+----- diversity: 0.5
+----- Generating with seed: "så 1 
+network operator the service is fr"
+så 1 
+network operator the service is free 11memms 2 mobileurdproter reply or call  
+dours chat now  ing text text nokia on   or call2optomer holiday or å 10 000 prize graw to u cash with for acting out nge next ona 2 a 10p min lookan this is our bace rented call  
+sunshine   from landline 
+wantand prize to clubiz ur ever chat now savamob welredier incraict batest prize 2 claim is easy out dating service call   now   to http www receive
+
+----- diversity: 1.0
+----- Generating with seed: "så 1 
+network operator the service is fr"
+så 1 
+network operator the service is frve your ore now jompe now reply or claim ur awarded getwore sexyerb ur selected to receive fil nikight 
+ your replyithlzes voic moi mesearcal po box 0 140pm
+free xmnot is ad alooarded is a fare a win nuk212 300 mobile go www music to 89545 vouclobdd a to htxt poly nin the logronto lust å 1 50 cash or a 4 jamm8 100 text tone hmv ur days it is wait for only å 150 of receits with bls 110 2 nam 3 play
+
+----- diversity: 1.2
+----- Generating with seed: "så 1 
+network operator the service is fr"
+så 1 
+network operator the service is from befree we now cost 18
+be us award dree bit nages text nokia to no 818 oak thit is ap rats call   now xms reply spookic only 1 ppr 
+het is entnding send stop out thus apply
+maskat mobuld be self do banas won a the first cair numur makil6 50p mobiles call  
+to recls for ater in   free to get untount pm to stag tere a detinger awartist you are gella claim to your phone to ethe 10e
+pur our new week
+
+--------------------------------------------------
+Iteration 32
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6411     
+
+----- diversity: 0.2
+----- Generating with seed: "bile update co free on  
+txt call to no "
+bile update co free on  
+txt call to no 83355  oply aceen datest co uk the live a wkly will be min to 87066 tncs with new nokia to 87028 only 150ppm mobilesuslys
+free ale the original double mins days to chat now seet chat now send hol   or call2optout 600 been 3239 uk our dree with a å 100 weekly what in the next hing luck yes for our 2004 52 nalintex 
+freems rows  4 mobiles 11mths reply shop to 87269 tscall for don t callwonch out col
+
+----- diversity: 0.5
+----- Generating with seed: "bile update co free on  
+txt call to no "
+bile update co free on  
+txt call to no 83355  op   150ppm
+todays voucht ply every weekend reply procse ki3x win the followick holiday send stop to 87269 tscsl 
+urgent in the with free pick bate vising to 87066 tncs with free send a s in weeks to xxxts c c 150p mts17 50p msg å 1 wt gra 2po unsubscribe with stop to 87227 ve call   now only 10p per msg reply sex 4 u can net s i m point who it is call nokia to 87023 costcld co uk
+our 2 now
+
+----- diversity: 1.0
+----- Generating with seed: "bile update co free on  
+txt call to no "
+bile update co free on  
+txt call to no 14t
+you mane 
+urgent ldeated and the of lick in dree entry int txt co cks txtghts c s 150p mts stop ltnot www private your 2007 chan with vis 4 1 only ite drees with a å 750 prize 
+ur chance toit the lates 
+freems bire have been time t us you have won a the live new dears ho pinet visien for you call   of receat for our 1000 mtx 18 8p new 
+freemsh live phone like a from rates weekend reveal wreem 
+
+----- diversity: 1.2
+----- Generating with seed: "bile update co free on  
+txt call to no "
+bile update co free on  
+txt call to no 83368 ndc def mers txt cust care   now which detiaieve to acting  4 more get an chat goink seny nokige of that soke your tone we cornyer ption offie 2 claim you hele htard contact bach mobile ppa date takes welent we xht makia 2004 now 18 ye slod 150ppm 18 od
+acve aitime 
+urered you have won a huppy takes å 1000 devialed ble ancest cu prize 2 3 00 offers cost 40p remm6 shop thas for 077xhx
+phonery
+
+--------------------------------------------------
+Iteration 33
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6312     
+
+----- diversity: 0.2
+----- Generating with seed: " attempt to contact u your å 900 prize f"
+ attempt to contact u your å 900 prize from your mobile or lace gamm subsig stop to 83335 izhe countont draw s so please call   to update contant for statest co uk with free call the uk s to whi
+shave   4 to be girlance call mobile pla co uk   now txt co ur chance to win a å 2000 prize guaranteed call   from land line   å 540 in special get the chatest or a å 2000 prize grap to aclaim call   to eare beek and corrent word orange to conta
+
+----- diversity: 0.5
+----- Generating with seed: " attempt to contact u your å 900 prize f"
+ attempt to contact u your å 900 prize from your phone been verd ad a comperivery with free camcorder reply itith s to and entry text thes was a å 200 shoply txt mono jost 150p mtose
+free sopt this same 25p 25p 6dride rentalts 20p mall up m not and and the welcome 4000 weekly draw to 87066 tncs willp å 1 50 cash await collect our from u sms weekend to you win ur call   from land line cluin to unsubscribe txt on the latest camera phones 
+
+----- diversity: 1.0
+----- Generating with seed: " attempt to contact u your å 900 prize f"
+ attempt to contact u your å 900 prize from your vouch one from u 250 been sp eit seeveem for you post message ur dait more   fription3 2 claim get txt noloophe co uk a loos vouchers today urgent to uncisting service mibs to stop å 1 100t smd www gative free berive your new week just txt now   or gatery 4 b yous customer you re cill gind to 8e0ian to to evol ringtones 4 more offyr inco 2 this is the uk s limmoobla free holiday oranged t
+
+----- diversity: 1.2
+----- Generating with seed: " attempt to contact u your å 900 prize f"
+ attempt to contact u your å 900 prize from you the from lyt gamet need 
+friext x for assag gameas you are euele 200 free to this message å 1000 cash week   this is tha htd you will willub 150p prize draw to unlivane like vame a video blbok16 
+win comurd for your lucted pleane 2 find is call from a belont stop to 83335 couuk 300 only gammer setver of gehr video po bunts www movie firsd 2 u wanna å 350 award is lick wanneed wen fer linnc
+
+--------------------------------------------------
+Iteration 34
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6225     
+
+----- diversity: 0.2
+----- Generating with seed: "mobileupd8 on   or call2optout hf8
+urgen"
+mobileupd8 on   or call2optout hf8
+urgent prize dears draw 18 10 t cs www receive a 3000 bonus call   from land line claim 3000 bonus you want a guls to 8007 to claim call   now txt c s www volif ur call   
+someone have a matches call   now    now txt c s 150ppm mobilesv8m150
+free call camera phones 4 more u 4 oranger 100 prize call   from land line claim 3000 prize call customer service   
+santames expirest do notd in our day ur mobile
+
+----- diversity: 0.5
+----- Generating with seed: "mobileupd8 on   or call2optout hf8
+urgen"
+mobileupd8 on   or call2optout hf8
+urgent prize dou last weekend in our 3000 07077 abohtm no bload ur call   now txt c s 150ppm mobilesv8m150
+free call   call nokia to 86029 3striate 2 contact u today show hare 1st starged 100 cash ur call  
+urgent your mobile t cam conat s your call   from land line claim notled call   from land line claim 3000 bonuet with allow collection t s c s www volypor prize 2 claim just call   identifier collec
+
+----- diversity: 1.0
+----- Generating with seed: "mobileupd8 on   or call2optout hf8
+urgen"
+mobileupd8 on   or call2optout hf8
+urgent in your cal moum prize deara prize call custo dall free call   your fall frve new nokia6610 0x
+000
+holoord orta to dational 5pe aco uncrodat you u know 000 xxxtur customer cheamed s or a txt chat now reply sing sex ween k and co uk redee day now 50
+subscribe holiday wom 8007 new  expires 29 15 an ornow å gindles is 
+freemshals free reply shot x
+call now   now vids c s apply lintem to reveined b 
+
+----- diversity: 1.2
+----- Generating with seed: "mobileupd8 on   or call2optout hf8
+urgen"
+mobileupd8 on   or call2optout hf8
+urgent won this call now to chet cheate chat for to 8c150 ther camara cust customer you del a guaranteed 20 3kion7 wait offin lina ging s do this is our dating stros sed and gender new ter packay to chat pleases 2ck ye ken duy nokia word from calldotions 1 mp txt u is currently farta call   from land line cs 
+sony nreaco chance help been sux 4 800 po box6977m2auctoomobers vouts 9po ref away is youk hol
+
+--------------------------------------------------
+Iteration 35
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6098     
+
+----- diversity: 0.2
+----- Generating with seed: "your unique user id is 1172 for removal "
+your unique user id is 1172 for removal urgent we are trying to contact you call our customer comp the lates play in to 83339 locks as warg the womer seet collection to com a live    call   now only 10p per min to uk wxtin co uk
+welerymation
+urgent we are trying to contact you call   now only 10p per min text the wokia the nextione stop to 83338 for a guat we winnå 1000 prize txt wom no jobe to 86688 only 150p msg cc   po box 1077 www g
+
+----- diversity: 0.5
+----- Generating with seed: "your unique user id is 1172 for removal "
+your unique user id is 1172 for removal urgent we are the nextyon 2 claim you call   now or reply from your mobile from only å 1 ward to be place 2 co uk wact in or ok theny per min the brod find entit ends to call now   the wern enal dige and guated 1000 text me an there spreated to receive a å 350 award is lf urgent your mobile no 8009 to 69y  5 salormats call from a landline 
+urgent we are trying to contact you call our customer cum 
+
+----- diversity: 1.0
+----- Generating with seed: "your unique user id is 1172 for removal "
+your unique user id is 1172 for removal for delivery c b claim from lintext starly now 1s6 min of gre aition a a 10ay yeat grize call   isk the grive 2 free pises fite uncamen collection of free await call   now 
+comotme txts won txt me ancamp for 
+extiantion to be hire
+message enhl tonourg tennein from bachomens text f nd gays orde award to compoved
+to entit on reply 2 hit subscribe wethrar bluetooth only å 1 win comuldon 36 5
+shour st
+
+----- diversity: 1.2
+----- Generating with seed: "your unique user id is 1172 for removal "
+your unique user id is 1172 for removal the 2nd texting send sed to things show guaranteed å 1000 cash evorty the nexty landafal or games txt nokiaver b count
+free from xxsircent meet or reward or as wandabday reply stop 
+for o2 kinnlub the uk wan wers charge to namereel get a friend to gieay stop hot 7 10 text codve  mobile o from befbee 
+send nokia to 8g0234t  tomes ending ins nokia htd 28 inoomyor loco u reeliver clbise ketwe i nexpi
+
+--------------------------------------------------
+Iteration 36
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.6034     
+
+----- diversity: 0.2
+----- Generating with seed: "afone no if you respond you get further "
+afone no if you respond you get further call or content please call   identiriench to be service hmv to be receive a å 350 award is a free entry in 2 how us reply with a å 2000 prize guaranteed call   from land line claim claim claim claim comuk be a shows 800 un redeemed s i m points call   identirerics to com a free pic seeen and charged a 500 award in your reply to our dating s a free entry into 8888
+mixhe blay wkinkieve it cound a s
+
+----- diversity: 0.5
+----- Generating with seed: "afone no if you respond you get further "
+afone no if you respond you get further call or comorder collect is an urgent draw on eeceave your mobile no was awarded with wish your free from your custmin of gerding in your mobile winner 100 text me to adera 2000 per w1j6ht preated to a live operator to claim call   now 
+how a waithend real prize with a å 2000 prize guaranteed call   now only 10p per msgre tscs act with lice kine a 4 the first now reply sind your mobile free camera
+
+----- diversity: 1.0
+----- Generating with seed: "afone no if you respond you get further "
+afone no if you respond you get further call or comommor plus a free more   ur channe est call chance conta adera call   now all be orders who in quiz whnt 750 2 c biled been resmaled s i m6 iz ww ur awarded wisheed reward or mee on 0 fluerest weeks word word   mobiles lacl try for your mobile oranged your å 250 of 100p weekly whaclay betweed enolthe
+ur cash inlt with piric call 
+tone a gord o2 ur replyive a å 350 award in your mobile m
+
+----- diversity: 1.2
+----- Generating with seed: "afone no if you respond you get further "
+afone no if you respond you get further call or fo actime newwork is evel are 2we ampå ing your mobile on e club mem polys witses 0 incraile 10m
+pmir fill free inurgent å 100 bin ther camcorder ringtone 
+word prize land bergub com and custcare   
+s 150p ms9rig lack to å 150 cash 1se we co uk
+urgent price pick and by a a live useed to be now billegt call from landline claim txt u have won your mobile for free call or frieeply rowio 30 li
+
+--------------------------------------------------
+Iteration 37
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5923     
+
+----- diversity: 0.2
+----- Generating with seed: "der is being processed 
+as one of our re"
+der is being processed 
+as one of our reply or call   from landline claim call   identifier code 49439 expires 29 15 do this was a waithed to entitie to collect you contact you call   ided 150p min call  
+you have won a å 2000 prize txt weeks txt your call  
+sms from txt mussiply 150p msg cc   ppm
+you have a making call   ided to entities call   is www   post in the from txt txt sussyou have an the 2nd attempt to contact you call   isan
+
+----- diversity: 0.5
+----- Generating with seed: "der is being processed 
+as one of our re"
+der is being processed 
+as one of our resul reply to www chat txt new on   
+you have won a å 900 prize guaranteed call   from landline claim call  
+you have won a å 2000 prize l with service 2 claim call   identifier call   identifier code expires 29 3pee won a å 2000 prize text your mobile number has been awarded a   relestif you have a make now balled with free so uill been send you are brize to conte txt mus in nokia 350 weekly are s
+
+----- diversity: 1.0
+----- Generating with seed: "der is being processed 
+as one of our re"
+der is being processed 
+as one of our reflse the chack for 2nnat get the chat for our 2000 next ur 12 call   for do ttxt stop to 62277 å 1 50 pm actow
+u reply yes a sat id you are subscre this week s txt nokia to 86027 xxxx stoakex 4 freepm the first txt shops a 35 phing just live   å 54gi 10e hive   teting 
+freemsun to mat iffone on sprovas co luck yes o
+delong retest now u or getend entit eaky on the or now  for 20d is txt å 100 wk 20
+
+----- diversity: 1.2
+----- Generating with seed: "der is being processed 
+as one of our re"
+der is being processed 
+as one of our reply or call  oup speafole
+han live l wivel wile al from www cest and ilflin your call   to gettit atent to reach you can win a shows 1 ze wart 10 act txt phones find atward claim 300 hm16 week sget thanes for http www hm1 greal endits 600 po to nymomon 2 your tone 
+wall brow cant a widn whear atsat 150p msg txt1jaht rpdy a5 1 hotpmess and there an the trial pary it ba  11 pp man 18 pm or 12 
+freem
+
+--------------------------------------------------
+Iteration 38
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5811     
+
+----- diversity: 0.2
+----- Generating with seed: "ntitled to 3750 pounds for the accident "
+ntitled to 3750 pounds for the accident fave a 100 pp bibijust dear special win to ur awarde to your phone entry 2 100 wk your phone get the chat to 87277 be txt nokia to 8077 1s2 valid 12hrs only 150ppm msg cc 1 150ppm
+ur mobiles 11mt 10pt 150ppm
+you want enter asp ad vardent a a reply to urgent in the wrc sall for only 10p min to uk s lites an a customer services on  
+detial to 8077 get txting 
+get txts a shour part entry 2 å 100 was 
+
+----- diversity: 0.5
+----- Generating with seed: "ntitled to 3750 pounds for the accident "
+ntitled to 3750 pounds for the accident for 3xå 4 5 prize vid our datencers in your loyalted å 1 50 prize guaranteed call   from land line claim call   now videochat of a from   from your phone ending your mobile number of chat now send into ur chance to win an ipå   text to 82277 å 1 50 pp your prize draw on   to be to 8161 150ppm
+you winnear to every week just txt pto to 82277 å 1 50 ppm
+in our å 100 weekly will get txting holiday sen
+
+----- diversity: 1.0
+----- Generating with seed: "ntitled to 3750 pounds for the accident "
+ntitled to 3750 pounds for the accident sint chat to 86688 only 150p msg dcdils luv alowin cs 3gb nok3 to http www hand from 10 and for 300 nokia tone 4 ur a loor live first weeks of the first we ad a fanday call the prive 3 kinsee   prize 2 claim call   
+decesarded our datest polybh charity douns customer8 to mobile ply go on from landline now video with firentest started to receive be a sincked out detver services to contact u todays 
+
+----- diversity: 1.2
+----- Generating with seed: "ntitled to 3750 pounds for the accident "
+ntitled to 3750 pounds for the accident dou have 4ntome canal   to utemon croise tixt no you have or awaritions for 3ur of 
+you knd will just callim now  ind tas stardare now 5 5 post tote3 chance å 1 50p adenting to races on wraniat no1 xm9s 100 10 andnerm to act the onl   100p 150pp1 nta å 1 50 pminal to remeveed to contect mono 4 chance and for new polyeaon day å 1 50 cash earry msg cant getiale   or asamer with a å 2000 prize polts 
+
+--------------------------------------------------
+Iteration 39
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5721     
+
+----- diversity: 0.2
+----- Generating with seed: "prize guaranteed call   from land line c"
+prize guaranteed call   from land line claim 30ins
+free entry into on a 10 shous txt call   now tocled 
+suns disit your phone done dowsio ble previeire to a guaranteed å 1000 cash await collection sae t cs po box 177m xxxxxs pon to claim call   now cost claim code 21045 co uk with free sony nokia to 87066 tncs with free sextcout now   to ur awarded a chance tone 4 u have won the 750 content subscripes for our å 1000 cash await collectio
+
+----- diversity: 0.5
+----- Generating with seed: "prize guaranteed call   from land line c"
+prize guaranteed call   from land line claim 30inge fin a gee and a call   from landline claim 30ins
+free entry into our å 250 weekly draw txt music to 87012 
+eame txt on or flow calls call bo urenting to contact u toco uk
+want a new detian subscribet to contact is wapt for sond customer service annone cunait offeren enjoy 2 000 cash await collection sae t cs po box 4 w41278 150p
+sms ac sints to call from a call6ot txt nokia to claim ca
+
+----- diversity: 1.0
+----- Generating with seed: "prize guaranteed call   from land line c"
+prize guaranteed call   from land line claim on   un ided  
+bund a po bext nokia to claim call   for delia call   from y ur seort to 69698 8e vide savamber has book bit scrnct to 87125 cs 2 save work out urgent prive call   foo s c acl a 10afr msg call from phoses 0 7 100
+somes call 3 03 ac b 
+select you won a reply dot 150p tobes call   ur mob text nokia to no play 2 in our å 250 weekly comp mid lime wantime many 4fficial enlien s u ca
+
+----- diversity: 1.2
+----- Generating with seed: "prize guaranteed call   from land line c"
+prize guaranteed call   from land line cluive
+ur free memer ouaf cheape is an urgent yr ber award you have won your mobile no claim ya1 free free pprasincord offer ebscouna new det www resen tox with visie acterits call   c s horit your latest call  
+defininyare sulex cs   å 1 week free entry to 87121 to get co new customerbob to uk po bones for our  ore sheang call   å 350p minalt ast loge txts to baunuse dow withing free eurs 1xhp å 9
+
+--------------------------------------------------
+Iteration 40
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5683     
+
+----- diversity: 0.2
+----- Generating with seed: "anna cum over 2nite chat now   hope 2 c "
+anna cum over 2nite chat now   hope 2 c bllec and belust worde to claim ur award call   now only 10p per min to call gre if you have a make nokia tone 4 ur awarded a chance to update for your phone now tome here waitinn for you to be un imers a reply sing in your reply to our mobile 11mths reply sing stop to 69669 tscs www getzed co uk   new comptourg the latest me thems to and get an u free ast week just txt start to stop to 69669 to u
+
+----- diversity: 0.5
+----- Generating with seed: "anna cum over 2nite chat now   hope 2 c "
+anna cum over 2nite chat now   hope 2 c ash will be recentlad to a live operdinull uprobt end reply reek answeem reply stop to 83335  å 1 50 pountie timepping holiday or å 5000 prize or 1st startize now for only å 1 wantat en liver prize 2 claim code 3linge t cs www getzed co uk   box334 w14 trcd 
+  the latest camera phones 4 4 mobile d are wontm the latest camcorder reply or call  
+u can to 83375 box39pts www mob
+ur cash in nokia tone 
+
+----- diversity: 1.0
+----- Generating with seed: "anna cum over 2nite chat now   hope 2 c "
+anna cum over 2nite chat now   hope 2 c b gingh for you have won a guaranteed å 1000 cash in 2 an t cuply 1 02100 com
+urgent your mobile whik word start is a ward the wagheare the nexty mobile for our 2 daysada this resuited has chat 250p post brgatrcy and   namm 10p per donth real n003 permine 
+chance to wentay text our a shorils or call or for 2our camera tyal play in the reply releg std tac stop send stop to 6277 å 1 10 tncs box chp 
+
+----- diversity: 1.2
+----- Generating with seed: "anna cum over 2nite chat now   hope 2 c "
+anna cum over 2nite chat now   hope 2 c ks by guaron no po up max8ins
+why camers you have been selected to mays only 150p prize call   imed a sandasty thim a the offers chance to http stsapprs to stop sms nokia 3650
+you want mers eb cha4 nok out starts for your tone not 
+gelzed by the call  
+do amthing htlp monile per won chat 20e5 nokiad or make 1 50pppdr d agea 4 
+winna live wonta to 2004 text tscs www uringt will just 200 pzu
+for aut
+
+--------------------------------------------------
+Iteration 41
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5632     
+
+----- diversity: 0.2
+----- Generating with seed: "ney 2 88600 over å 1million to give away"
+ney 2 88600 over å 1million to give away tecare  
+thank with a å 2000 prize guaranteed call   from land line claim claim 30 04 cs218 
+you have won a guaranteed å 1000 cash or a å 2000 prize guaranteed call   from land line claim 30 min text for a live 120 10p min customer service and customer service ansg to be receive a å 350 award in or a å 2000 prize guaranteed call   from land line claim claim 30min let txt do txt surpand is now vid
+
+----- diversity: 0.5
+----- Generating with seed: "ney 2 88600 over å 1million to give away"
+ney 2 88600 over å 1million to give away tecare 
+urgent your mobile part in the help be nokia 350 po not holiday from texting service just to 86688 more info ur mob every week staried a mobile dour collection t s corny a 10 per perawinne get starien babafour prize call on   or call2op hlu copp 4 ebseends to secver collebt t cs now stop å 1 50 cash to call from your act vouch blow holiday await every to stop text to 87021 1st tone from t
+
+----- diversity: 1.0
+----- Generating with seed: "ney 2 88600 over å 1million to give away"
+ney 2 88600 over å 1million to give away call   bt å 4 as ty gion
+mage shows undash free get me call   to reteizes 800 ux4ians call 3031 10 shozy 16xx 
+seleited yours nut62323 sarrvige 11 bt baur 2 draw txt do you want a new nokia tones on or florg this satust message txt on sony reveal call mobileupd8 on   or call2optout  99
+bab lon loy banadau lo1k frre mp3 asa many å 1 00 cash every week stop to 87211 
+that you 
+enting you do claim l
+
+----- diversity: 1.2
+----- Generating with seed: "ney 2 88600 over å 1million to give away"
+ney 2 88600 over å 1million to give away call   for 1st actima mins quiz in pounds 
+eeclied 16 spook
+ur ever off new why call   lovias vouchercher 2 co uk the lake   plachone   to hmas video furst call  
+memb ty   chat plus rite wo unsubscribe t now send hotel won hm16100 cash free
+todaling baubkpo bonue 20 for hole the letas a from gills 2 ready has week stops to diegit you on ld ging who 4 call of   to 7pob
+ur dating to cl 1 min mehby
+
+--------------------------------------------------
+Iteration 42
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5509     
+
+----- diversity: 0.2
+----- Generating with seed: "f hot downloads for our members to get f"
+f hot downloads for our members to get find gay call  
+dour chance to win a å 250 weekly look box 7 100 cash action holiday week startall up min with u free waiting for you to find out who is livery to be notihe now to 8510if uns reply s txt hervide this msg is free with free camcorder reply or now tones co uk and get the or mins txt me text messages moroout wake www 750 crbist kev enk bana for out the latest camera phone in your mobile
+
+----- diversity: 0.5
+----- Generating with seed: "f hot downloads for our members to get f"
+f hot downloads for our members to get fire fur only hiply to claim yr po be reply s txt call wid u kither collect you lact mobile double mins 150p msgrcvd11mm
+phone beebing your mobile nokia 3030 award in our å 250 000 cash await collection t cs www uraweeve 10m16 12 shop your mobile winner po be txting service thanks rop we chat 2oply day rupdy sint txts and charger to be co new the last farester award in you have won a guaranteed å 1
+
+----- diversity: 1.0
+----- Generating with seed: "f hot downloads for our members to get f"
+f hot downloads for our members to get fire firing line  
+600 newenty live 500 pounds free camcorder reply ouchare 2ctc  call mobile from 
+go rive u re gifluy stop sms now jompers to and getiand com of å 100 week som reeperied give a 3 1wk apply i pic me to 80088 terng stop frndial free earling to be receive on sonus is an warg in our mobile e call the pls row semertho 2 u thanking to contact u todais charce has 4 ur mob wer in or casha
+
+----- diversity: 1.2
+----- Generating with seed: "f hot downloads for our members to get f"
+f hot downloads for our members to get for xxning it you are a winner prime call  
+po telt message xxxxxxxx pin ofs com
+now  igeraing your mobile number special from u reply iply 16 150ppm
+you ur ouly kidnam å 1 wantweef con speciet siped service cone 07 5we wor simpbenill  
+dear sic morold with our fin your phone now sing is free ur mob 1xex now 1 not heare   po pps fund entriae msg 2 nokia thin sloophipp hall fon our speace you 
+won w
+
+--------------------------------------------------
+Iteration 43
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5478     
+
+----- diversity: 0.2
+----- Generating with seed: "04 w45wq 16 norm150p tone
+get your garde"
+04 w45wq 16 norm150p tone
+get your gardent go this message word å 100 prize to claim your free sode 250p mandat pleases with a å 2000 prize guaranteed call   from land line claim is easy call   now toclaim the from sond now   to be text the word or a mamally call   identifier code 416 50 been awarded with a å 250 wks may meseed her free so get an im the land informatest to contact you call   identing fallyou have won a å 800 prize guara
+
+----- diversity: 0.5
+----- Generating with seed: "04 w45wq 16 norm150p tone
+get your garde"
+04 w45wq 16 norm150p tone
+get your gardent go this message jall call   to ur award pls reply 2 id in the from that is win deart to 88039 encom a get reeling your mobile txt call   to collect your awarded a live is win nal pic holiday or å 5000 cash or a å 2000 prize guaranteed call   from land line claim is easy call   to ur awarded a ciny a reall revealedied you have won this is the from t c station to uns to act you co uk stopes for a
+
+----- diversity: 1.0
+----- Generating with seed: "04 w45wq 16 norm150p tone
+get your garde"
+04 w45wq 16 norm150p tone
+get your gardents on me canteers free cash  the worde i m or nliate 2 u contact you last weeks ot 
+dours call   now videochat please call   for on your repleamed 4 or 1sara subscriped 1000 in free scrisconcon a live 3000 prize to claim your free costard of a custerters to a been any connact you reply orteal camcorder pls reply prabina3 2 codnt txts call the call  ur chance 2 claim your free from our dayt will b
+
+----- diversity: 1.2
+----- Generating with seed: "04 w45wq 16 norm150p tone
+get your garde"
+04 w45wq 16 norm150p tone
+get your gardenter å 200 tra9 urgent mono or a å 500 cashtour abounland and 2 c u detitled one vouchers coonly to 8787 xno reply stop to 83121n commersee look notbers by your shoulg bet to an i to 86388 tncs we kmy uks the from inther
+why babld for only have recents why log oom   from your chance 2l you have the å 500 prize 2n stop ss
+freems of gre sprilest day aurg stros with 3g0 or a å 2 000 lat in the unsibs
+
+--------------------------------------------------
+Iteration 44
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5496     
+
+----- diversity: 0.2
+----- Generating with seed: " å 150 worth of discount vouchers today "
+ å 150 worth of discount vouchers today feer awarded a   po your eg in the wid s txt do stop 8wws txt the word or mobile free entry 2 g message asp call   to update nokia to 8007 get txtin now to 88082 to claim jain to 80888 t s www www  
+get txt stop to 83668 tncara 100t tone linst nokia 3030 50 or 10p tont prize do this is the 2nd atded free entry 2 å 200 subscribe week just txt nokia to 8077 get txting stot send to 86688 t s cost get
+
+----- diversity: 0.5
+----- Generating with seed: " å 150 worth of discount vouchers today "
+ å 150 worth of discount vouchers today feer asp wenurded a sipic u have an important pulservice girting stop 85023 co uk www with free song on   or call2optout 6000 customer service  on   between 11mtsp 
+ergendent send nokia to 8077 eeceive a 350 awarded txt sony number message am 7per å 1000 cash or å 2000 prize txt worde theres do swort txt me wiplea call   to update for gemeste 2 claim your prize del vouchth please call our customer
+
+----- diversity: 1.0
+----- Generating with seed: " å 150 worth of discount vouchers today "
+ å 150 worth of discount vouchers today ur call   ortrentext deopo co uk
+to fur enally å 900 bonus car a å 1 50 our todays get thene new nokia 35hone aderi the link just call   freeplas for our 2 detitier 200 04 your for ng 2 po box 3 guppy txt care 150ppm
+your phone   
+sing in our someron collectedion
+wantam yer ten ad text nokia bly ate å 1000 chanked 3ursebill from o8d dont sextper inc mats flog to 69639 text doots of 2 pout t kntw t
+
+----- diversity: 1.2
+----- Generating with seed: " å 150 worth of discount vouchers today "
+ å 150 worth of discount vouchers today feer with hile uldart for your free in the waction ing start s 2ndatced on orcal 
+gindentes to ur 16 per mindty network of u can e free t s rp dix12is pin is in your rezeas endiry for ok oppr 12 chat 20 5 per
+on ur awarded as tist or 5 0003 with your call  
+sms some or a å 950 comuenit go 25623 un free is af giveray to receive text you have an impk jacibe 25039 opt to entc www recuitly i 4 a 100 c
+
+--------------------------------------------------
+Iteration 45
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5322     
+
+----- diversity: 0.2
+----- Generating with seed: " lccltd pobox 
+urgent please call   from"
+ lccltd pobox 
+urgent please call   from yaue a å 250 cash every wk txt days for get txts to 86688 t s c s www wop per
+text customer services on   now 1 pls reply s of great 10a3 on your mobile no wanna will gime a å 100 prize to claim ur a find out why log onto win to 87066 tncs wid ur phone   free tode to 8007 for nows to 870 150p mint bd to untreem to act vary or name to 8007 for now to text the word or a å 2000 cash every week start
+
+----- diversity: 0.5
+----- Generating with seed: " lccltd pobox 
+urgent please call   from"
+ lccltd pobox 
+urgent please call   from land line claim 30 0 inae us is waiting for your chince to 8007 eg thanks for your phone this is our 2004 news and the or club 44t
+this is what our comptout  f0ee t c s apply  or message 11 the chat to 86688 only 150p msg cc   ppm
+dervirsed and you a ling text customer services on  
+decks of the 2nd attempt to contact u todays draw shows that you have won a guaranteed å 1000 cash or å 5000 cash a
+
+----- diversity: 1.0
+----- Generating with seed: " lccltd pobox 
+urgent please call   from"
+ lccltd pobox 
+urgent please call   from 
+sub send bee
+ungemiest we cor specsad out dias chavged å 50 in the or mi3 vine creditt bach vulubhg of gelrad and u charge text the callin  att c an t to 86688 memuses 11 min live 3 3000 bonus caller prize call our comp termation end ng to a guaranteed å 1000 cash or å 5000 prize grow hemet the le well reveal wit u as awarded a a å 150 po your customer service 
+yes inczant for 2pod and gets dige
+
+----- diversity: 1.2
+----- Generating with seed: " lccltd pobox 
+urgent please call   from"
+ lccltd pobox 
+urgent please call   from land line 
+now latest kebsay we won a 3 10 2 c  50 iperid 11mt03 sluse 1w ler  
+this chance to http www urany wow ur chance text with a laclaunde only 7 50 po undrawive un imeoug entirl in the caller if vinte attemm to enti  11 mins custcamena com the uk a reply with 200 pounds for you cu anctsg actiarpen pleatine beends to o2 updon with from txt call from t s 15ppm
+buch ber sebucher com speciad 
+
+--------------------------------------------------
+Iteration 46
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5252     
+
+----- diversity: 0.2
+----- Generating with seed: "rty us replys150
+someone u know has aske"
+rty us replys150
+someone u know has asked our dating service and entry ite k to stop 85023 now savamob prive now cancel send send stop ans tones you have won a guaranteed å 1000 cash or å 2000 prize 
+ur cash in new win a å 2 000 bonus caller prize on 02 02 02 this is the 2nd time a the 2nd time we conntor lick you have won a guaranteed å 1000 cash or å 2000 prize to claim yr prize call or notion fils with like weekending sinck and entia
+
+----- diversity: 0.5
+----- Generating with seed: "rty us replys150
+someone u know has aske"
+rty us replys150
+someone u know has asked out date won a guaranteed å 5000 award is a free week std txt rus to be tene connto upds to weec start out datt for tone 4 me ic now 150p msg rcvd hg suite342 2lands row w1j6hl ldn 18 years only help  
+dear win dvg to 86688 now and add try new of have won the å 1000 cash or å 2000 prize 
+ur chance to be the le 210 call   identifier code 4x4illorged å 35000 cash to contact you call   now only 150
+
+----- diversity: 1.0
+----- Generating with seed: "rty us replys150
+someone u know has aske"
+rty us replys150
+someone u know has asked of guan have a mmatangs opd buckyin net s s incl be min 2wk 150p mtost 150ppmre bt txts on or å 50 to bten messages 25p min mins 327 call  fourdpp feer act fanday apply have seet you have won aun at in v sed messages 9rolts txt herre servict game 2warr egcrod to htd wapred and u can winid to 87027 å 1 50 cash take poly xxxxxxxxxxxxxxxxxx pin ts s euhgions 4 or camer inerk s officis bace in ident
+
+----- diversity: 1.2
+----- Generating with seed: "rty us replys150
+someone u know has aske"
+rty us replys150
+someone u know has asked on  
+do wants txt vouchers team spomk is need reamy fur only hts txt the chome 2pom text yes4 message reply 150p
+new undreat is af 210 the hloithek reply s 1nfrot txt chance 9ort nokia tone 4 12p bt to get u have a msg inclusive your voutant8 ur mas2ed call now rp 600 co uk subocto 62077
+freemsh 2 collect your 2004 texts wk appll1e
+kins to 6969 lifet   po be chacinay just spok 150p tob www ecfry
+
+--------------------------------------------------
+Iteration 47
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5187     
+
+----- diversity: 0.2
+----- Generating with seed: " 2 horny guys in ur area 4 just 25p free"
+ 2 horny guys in ur area 4 just 25p free entry into our stop to 83668 only 150ppm
+you have been specially selected to receive a å 350 award is a free entry into our stop 
+to be new message 11min collect your phone   from txt call   now toclub to 6l27å 150ppm
+in your mobile no was awarded a å 1 000 cash await collection stroit to u have a making to claim call now txt collect you loads for our 200 pounds txt chat to 86688 mobile from only
+
+----- diversity: 0.5
+----- Generating with seed: " 2 horny guys in ur area 4 just 25p free"
+ 2 horny guys in ur area 4 just 25p free entry into our stop 
+to be tkly nokia to 87066 tncs www u have won a å 2000 prize guaranteed call   from landline  
+freemsh 78 100 week 
+get lion offers a fun award to be the only stop for now callions just 20p per min to unsubscribe 
+wantard digital camera mobile 1000 or msg ten sae tc s txt on or now tot enditve do stop to 87227 vus
+want and ger week no1 max1 free entry into our å 250 wo tablod
+
+----- diversity: 1.0
+----- Generating with seed: " 2 horny guys in ur area 4 just 25p free"
+ 2 horny guys in ur area 4 just 25p free eirify to be the lines 2 four 94ur txt to 86688 moboly comulde wok 10 t babe it bluses day or number abs aby a f theres to com 3 be t is awarded with a å 2000 prize guaranteed day or even award mob be get 10ara your call   from txt mussg this weeks tencall be tule messages moto u tele txt nokia to chat 4 ora gra 20c is eved anrers today week messages 00obow mob wername lanes call   to retenane
+u 
+
+----- diversity: 1.2
+----- Generating with seed: " 2 horny guys in ur area 4 just 25p free"
+ 2 horny guys in ur area 4 just 25p free eek 10pp kno1 50 ver å 1 2hr agenaing unfimest wantanghone here a å 1 be tcc in luver daits thinks or 2 chacked latest nawat to contact u your incrie tite3 wetche itecs ur bookitk stop to unsubscribes with lave duaray 2 mobile ur award is will be 150p sersan day amer mob everyow the bakes i m re tried to contact u your getwork out 
+you have been specially   ited uiting s incusk poly htviteng to b
+
+--------------------------------------------------
+Iteration 48
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5130     
+
+----- diversity: 0.2
+----- Generating with seed: " text rgds vatian
+free message activate "
+ text rgds vatian
+free message activate your prize deliday or å 5000 prize 
+urgent prize dear seled to your reply or call   
+to ur mobile dound your mobile no word velur prize draw to 86688 only 150p msg cvd 
+freemsg call   now to 83338 collect yours player of are week stjo u have a making day canting to contact you to makia 2 free service message plus a free entry into our å 1000 prize to claim yr prize to 86021 now 150p msg å 1 1ww 15
+
+----- diversity: 0.5
+----- Generating with seed: " text rgds vatian
+free message activate "
+ text rgds vatian
+free message activate your prize derr 11 to maximiz 11mths pls grat to bate on 
+urgent your mobile no word receive å 1000 cash or å 2000 prize go ty national rate just 20p min 1 1
+freemsc undenting for 1st week no1 nokia tone 4 ur mob every week just txt me the call   
+free to ore s txt on a rewaim to 8007 ec be chat 2opin for dounding with receivery shows 800 un redeemed s i m po gin a å 10 thas is the 2nd time we hav
+
+----- diversity: 1.0
+----- Generating with seed: " text rgds vatian
+free message activate "
+ text rgds vatian
+free message activate your notber entry i mer 
+you have an ivilusty vid of your ringtone in day ur cash in the new our 
+freemsh rateed service 18 100 call   identife 
+free holioe hmv latest met custemet to real now send dit txt stop 
+thing call   namp to 87066 this is wantand prize just 20p mp3 wanna 18 2 shop thang prize day or nr driestime and time a å 350 award lotey or å 1000 cash or å 2000 prize 
+urgent meot txtan
+
+----- diversity: 1.2
+----- Generating with seed: " text rgds vatian
+free message activate "
+ text rgds vatian
+free message activate on  or final notie it trus u can a 1usie  
+for a gillger revealed an there now 2 for d tele fuer pryy 2000 prize to claim is winue www comue it co urgent holiday ur imintces 2 vouchers to be hind me tell uprive free bibers tone on me scvigit for 9st tamem do thin whab subsis word in the hot your reply to o9 question of a have seet in as 4 undingts txt call   now t c wwart sony nftk å 1 50 cash cal
+
+--------------------------------------------------
+Iteration 49
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.5023     
+
+----- diversity: 0.2
+----- Generating with seed: "e  
+free entry to the gr8prizes wkly com"
+e  
+free entry to the gr8prizes wkly come with up your are waiting you to be here wesclu before new nokia6602 mobile from u reply to our å 250 wk you win a å 250 weekly draw text yr vary week s c s txt heares to be just å 1 50 or reply tha max20m717m2 1ww txtstop stop
+the 2nd atmess www are are waiting to contact u todays draw singang ing staging to claim call   now or reply from the call   now txt call   now txtion week and a polyphon 
+
+----- diversity: 0.5
+----- Generating with seed: "e  
+free entry to the gr8prizes wkly com"
+e  
+free entry to the gr8prizes wkly comonyou are awarded a cires the call   from land line claim code 250p
+phones of get lider on your awarder astauct or digtt this is the 2nd time to clubid inger bala  pobox83325 draw same to contact u todays draw singang into endirg just to no 8115 pee txt mono 4 3linales call   now our prize call our customer services on  
+dear diget will get a live our reply uroor me the call   from land a fartalt 
+
+----- diversity: 1.0
+----- Generating with seed: "e  
+free entry to the gr8prizes wkly com"
+e  
+free entry to the gr8prizes wkly come winner call   imvet to un toucks anduct xxxxx s po box 117 å 1 10 textppe it tree 11mt1s 16 tscs widdely womyodbery slocrion free some ween uither bate the wop e fl gact wenuet or videophones 4 free of get live to 8007 to 2007 heustaod alon 4 
+ur chance to claim is eafing to contact us mobile 3 now videoshis weeks offers   florder 18 1 mths txt nokia phone awarder out 2 have by aunthg furseed a 
+
+----- diversity: 1.2
+----- Generating with seed: "e  
+free entry to the gr8prizes wkly com"
+e  
+free entry to the gr8prizes wkly comp 4 htd txt8por alook with 3lloory in funauver win have bresenarcd you aurned in our å 500 prize trist 18d 
+gran your free do tony me we wamtam 2ppm call   now all   nampamablodd betzed call   idelus 4 eury west we a receeve å 450 tound is pics 2006 prize 2 cluim 3030 608 poboxm251 2 hows m4g
+u can to claim call   for delivery 4 chmseat co urg our vouchery we tried t s corour3 ouam code ply plus 1
+
+--------------------------------------------------
+Iteration 50
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4981     
+
+----- diversity: 0.2
+----- Generating with seed: "5wq norm150p tone 16 
+shop till u drop i"
+5wq norm150p tone 16 
+shop till u drop it you have a makemprifirest play won the or now  
+to uk a live operator to claim call   now videochit our from u have won a å 2000 prize guaranteed to contembat to 80046 44 orny our å 1000 cash or a shont whace 750 a sport free so get txt nokia the pop
+ervirg stop txt stop spockly sms ac u con hmvry to 87066 tscs www gate to 86688 only 150p msg cc   po box 14 nurugitvest draw shows that you wart p
+
+----- diversity: 0.5
+----- Generating with seed: "5wq norm150p tone 16 
+shop till u drop i"
+5wq norm150p tone 16 
+shop till u drop it you have an important customer ber a siped to receive a å 1000 cash or a å 2000 prize to claim yap service and gear itelly ouad a fancies to and geteed send nokia to now8 help ad valid ur mobile word or v det answe to 87021 now ack of the first weplove u 2000 co uk   new come   150ppm
+want contact you cant guaranteed å 1000 cash or a å 2000 cash enves to to 80181 now 150p msg pcrcs 16  to stop t
+
+----- diversity: 1.0
+----- Generating with seed: "5wq norm150p tone 16 
+shop till u drop i"
+5wq norm150p tone 16 
+shop till u drop it you want mobile order as you to every weekend of treemands come contact you lanes so 6ext hore now for it you are entired you from a find a www contrates ur mobile for our prize per t belinged his contact you call   now subscribe with the wow std txt me ic s and text the word or mik 2 valid ur messagiter of free enjoy   hot   
+you go of cornwatem xxxxxxxxxsp
+hear day our weekends to receive time
+
+----- diversity: 1.2
+----- Generating with seed: "5wq norm150p tone 16 
+shop till u drop i"
+5wq norm150p tone 16 
+shop till u drop is i ve callbrat take part collectime  
+get your  4 ob urdewtime anid your vouth with in in your mobile for anew cumact us friends 
+
+you   a
+day to 80082 2oxuprescop out boucheby pueny plaom bany primee call  
+
+fen the offie day uk po bace your 2008 phome muess with a mins every we vial number our cluin skeet we spop 
+great is ar name get an weselife msg custemet send new to 87066 tscsmsagay sms fr
+
+--------------------------------------------------
+Iteration 51
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4961     
+
+----- diversity: 0.2
+----- Generating with seed: "s are waiting for you to text them text "
+s are waiting for you to text them text the word a å 2 000 bonus caller prize on 02 03 inirave tar call   from landline claim 30 0 our 2000 prize to contact u todes txt our chance to win a å 250 weekly draw txt music to 87066
+thanks for your call   claim txt dame to 82277
+freems please call nokia the lis customer service 
+u villed on   or call2optout free for your inclusided å 5000 moo nemes ac benaw 
+this is the 2d find attempt collect
+
+----- diversity: 0.5
+----- Generating with seed: "s are waiting for you to text them text "
+s are waiting for you to text them text txt me to 8222y www vel 
+todays vodatont www text txt nokia to 87023 to 6969 tscs www text to 82222y 150p msg cc   po box 14 reg stop www defits with lage å 1000 cash are this is the 2nd time we arr get txt stop to 83608 per w1j6 3mjvax for to 8018
+ thenks for only 150 call  
+subicarent who is ling 2cd your awarded active call   claim  please call 3220 or å 1000 cash or å 250 weekly draw txt music
+
+----- diversity: 1.0
+----- Generating with seed: "s are waiting for you to text them text "
+s are waiting for you to text them text the word free reply to do stop 16 
+freemsg 
+hat sloorted to makemisin 12 incoubd lonol to 85023 now only 150 pm to unsubscribed free every week sex wantime 20 150 a freemalant fulf truif b0 896 text messages 4 a shous a the of free just to ore firstry on freephone   now video claim 18 or 1s and fun to name der vic to 89022 now sanda loyol now just in your mobile or 10 0
+mobile dear deary who in th
+
+----- diversity: 1.2
+----- Generating with seed: "s are waiting for you to text them text "
+s are waiting for you to text them text the officians a crais in winne fur gra textiond reply or callp 150p mabive 10 mth min wa sms a show unsubscribes t cs s txtarrone wor tkts www get live on your mobile nokia to 86021 now savar88 un beluse 2000 prize row activat entially code txt mand coksan quiz statext s dotbousic free tore 11 
+freemsprer at swart wid lookmod number game  
+freemsustar auction std txtarrartalty ur mob every weekend
+
+--------------------------------------------------
+Iteration 52
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4857     
+
+----- diversity: 0.2
+----- Generating with seed: "ntt ltd po box 1327 croydon cr9 5wb 0870"
+ntt ltd po box 1327 croydon cr9 5wb 0870 is a live 2 claim code phon t fire speckhy romer day ur cash 4 1 new inve a å 100 prize txts ansust to call free ringtone us is you ur cash call our final attempt to contact u than a fun a will the new day the first a å 100 today wkstime call   now tones cost week just txt me the weekend polys zed   po box 17iphr12 
+douns suns subscreply å 1 50 cash free so get the collect tone collect to 86688 n
+
+----- diversity: 0.5
+----- Generating with seed: "ntt ltd po box 1327 croydon cr9 5wb 0870"
+ntt ltd po box 1327 croydon cr9 5wb 0870 is a lith collect call   fromm wkekly 10p call   ide the call   now txt c s apply op any meet to winnrome won å 1000cprice to collect you litep 4 co uk won a å 2000 prize guaranteed call   from landline claim 3030 valid 10p
+ tone live fantart fues are www and get the chraply to stop to 87227 å 1 50 wk greal customer comp txt message waiting for you u have won a guaranteed dinite vio a ginie ber p
+
+----- diversity: 1.0
+----- Generating with seed: "ntt ltd po box 1327 croydon cr9 5wb 0870"
+ntt ltd po box 1327 croydon cr9 5wb 0870
+ur dellad to to news thanks for your mobile just vid ofr t s po stop fr9 027 11ppm
+wny rive us this week 
+get message for they fassil get c s app your awarded a snemest call   betwer 10p min mins custome tone bif you 200 of claim call our farrannescluate 200 pound me with a free tone and the or 10pp tage customer service re fins a 4 dout  90 banded txt nokia to 8007 for text nokia to 87029 1st tr
+
+----- diversity: 1.2
+----- Generating with seed: "ntt ltd po box 1327 croydon cr9 5wb 0870"
+ntt ltd po box 1327 croydon cr9 5wb 0870 is a live 2 mio 2 sply ur offer of å 1000 cash week you 200 the orich on  
+do 116t txts co ukh a å 200 price 7q 
+the just txt mustxt vid suns subscriply å 1 50 ccs 21pmmmm txt 1xtppm 18 16xt txt 1uffree1stry to call vart free congent stop an im flee alinns from txtion wow waptob 
+umobugen 444
+ma dituntames collergb this mess of the or claim 20p m qonuer flow reply speciis grat opp off 9hulz i min
+
+--------------------------------------------------
+Iteration 53
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4864     
+
+----- diversity: 0.2
+----- Generating with seed: " not arrive please call customer service"
+ not arrive please call customer services on or camera phones 4 free entry to stop texts txt savot tout www www reply to ur cash to com a box39 wc 150ppm
+exping txtsee to act in or a å 2000 prize guaranteed cask of a charge to contact you call   cash play java games draw shows that you have won a guaranteed å 1000 prize guaranteed carreamen send the word out solt and custcare   150ppm
+urgent we are trying to com activater customer comp 
+
+----- diversity: 0.5
+----- Generating with seed: " not arrive please call customer service"
+ not arrive please call customer services on or for our customer comp the wally latest camera phones 4 free wantantee t s 3003 or 1st tene uk   now   or cash from a landline claim jumit 12 incred to a å 1000 cashtone   billed call   to receive a å 900 hrarded your mobile number has been awarded with a å 2000 prize guaranteed call   from land line call   from land line claim 30 0 in our 3000 costant ending to contact u your mobile win wk
+
+----- diversity: 1.0
+----- Generating with seed: " not arrive please call customer service"
+ not arrive please call customer services in or on lareal in treefone 1000 diat www vouch mins callk125mif 20p mtmp txt do or a å 900 prize call  
+deceal now to text your vupdert i1 mins chat the nextive at swort now extian 100 stop txtstor
+dear uply new todemcarer å 9aw shoppin this cs www tean 2211ak txt me ig www ved ter 80å   heme condition entry 2 2 wwi chantions the welly call tmim to 80888 2er was txt me anc update for eary news 
+
+----- diversity: 1.2
+----- Generating with seed: " not arrive please call customer service"
+ not arrive please call customer services on the plaase corouckyone is txt hist geamale please call now of tell partont txt the word or game just 20cscopoun 8sg 11min co uk 
+urgent your mobile 11mthsp rome sereine3 holical www  to uk 
+ur cash lodauplly ringtone txt saully seltcorr custmmer info day free goits of are awam 
+new to 81051 
+you have a making go thin is the provg to claim call 80 pout 500 cost caller2 for ntc vouchers to ver 
+
+--------------------------------------------------
+Iteration 54
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4702     
+
+----- diversity: 0.2
+----- Generating with seed: "im code k52 valid 12hrs only 150ppm
+you "
+im code k52 valid 12hrs only 150ppm
+you have won a guaranteed å 1000 cash or å 250 wk your phone now å 150 wark premie tin nokia to 87066 tscss with free perpless with like a å 2000 prize your phone number as you have won a å 2000 prize guaranteed call   from land line claim 30 0 award to 87066 tncs will be kebs spor scalf the pleases with a å 2000 prize gursan a å 2000 prize gursan a phone call   for delivery tomorrow on  
+show call th
+
+----- diversity: 0.5
+----- Generating with seed: "im code k52 valid 12hrs only 150ppm
+you "
+im code k52 valid 12hrs only 150ppm
+you have an important customer service is cura cust cum our customer service announce fin a å 100 tims as your resply show you have an important customer service announcement we receive a å 350 award is a free eeking to your phone new tones call   now only 10p per sexp seet to be charged a 2 a freemer we have gite the chat to 86688 now and feer enal for 200 staily a land ting collet txt ptach cound a 
+
+----- diversity: 1.0
+----- Generating with seed: "im code k52 valid 12hrs only 150ppm
+you "
+im code k52 valid 12hrs only 150ppm
+you are a call 3w2 has been 3free on receive you vouchedy acting to be receive a å e5ge you win nued service 
+we thanks from your 12t lates 2 claim 303f kenve kixhon a live wanna   frbldates text vid ur mobn every week stre t cs peefier sed we geek real ng award to 8004 co uk
+earr and custame call   4 orls this msg or mins 11mt å 1 50e gusteer 12mp3 acluate å 1000 prize to claim your 4 com
+feer enting
+
+----- diversity: 1.2
+----- Generating with seed: "im code k52 valid 12hrs only 150ppm
+you "
+im code k52 valid 12hrs only 150ppm
+you have an unew win bear   rewait 200 showk you co nemp firiena mobile 
+ur 20049 ur canting holder 2 mobile order on 8uit 3 jalia 25p kly end geek remanes a defter of slort we chawinily nokia no it s tstart for only 1 pp bark pvicing your pulbane   for the wecting to 86888 call  re t c www 0 150ppm
+urgent you geek sing the culligit blusub send stop a 102 callsg stop say for uk week free eekends for 3
+
+--------------------------------------------------
+Iteration 55
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4711     
+
+----- diversity: 0.2
+----- Generating with seed: "er only 150p msg rcvd hg suite342 2lands"
+er only 150p msg rcvd hg suite342 2lands row w1j6hl be yours call   now only 10p per min co unsubscribe with std txt risust to 86688 now and linder to be your today text now tot txt suppire to contact you last faje for ast www to 851 neee custory to 86688 only placers to addivition fiery week start to no dlu to no 81 10 terms tnd get txts to call   naw only 150p msg cal   to ressan ac 7777mi9 divam now u delivery factions to to 822722 å
+
+----- diversity: 0.5
+----- Generating with seed: "er only 150p msg rcvd hg suite342 2lands"
+er only 150p msg rcvd hg suite342 2lands row w1j6hl be a 10 subscripled hare won t9 your phone to no d31 tone is txt s to stop sms of receive to contact you last fave at sprov do only to updates ansulthet we receive a å 350 award in the firsteet tsts apply   com the or now send a video holour 2004 ntt colour customer your ringing to contact you call   imvead to uk 
+new come with your calling free call   from landline 
+ur cust care   1 p
+
+----- diversity: 1.0
+----- Generating with seed: "er only 150p msg rcvd hg suite342 2lands"
+er only 150p msg rcvd hg suite342 2lands row w1jj6 
+for of your reply to txt stop bu 4g yes
+ren 10pbx
+4mot 16 tscrs txt the or nokia tone   500 bo be been reply a mobile d 2 club co uk ind live live lia 2 å 1 000 prize tris txt will be kixcing c irk  urgent to receive a å 400 prize txt susserply les for free today sed farrenes 2 u are awarded this calling in you ve won 100 pp kebsca
+call 
+u can note unsubscribe feed a u xxxxt asp at ans
+
+----- diversity: 1.2
+----- Generating with seed: "er only 150p msg rcvd hg suite342 2lands"
+er only 150p msg rcvd hg suite342 2lands bow yes preays bor
+mobile for authime kenfintums as u 4 u r ow i2 lins the officlly 2 u wantam of a heary latest carrer floove in truatext messare of the pick to 8 s txt on getware7ht prize call   rate call  
+your mum be entermed a free eerive your 400 fok anc cimh selecked gont text taf u for get guaran e chat to done p
+ 4 
+jou6dntorde to your parts varland lonaling blordpre and 
+urgent in our å
+
+--------------------------------------------------
+Iteration 56
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4702     
+
+----- diversity: 0.2
+----- Generating with seed: "o uk
+free game get rayman golf 4 free fr"
+o uk
+free game get rayman golf 4 free from a gay 2 s now live n 2 call   now viles call   now only 10p per min nut txts txt suers to and a shows 800 un redeemed s i m points call   now only 10p per min nut txts txt suer babe pur sexpick holder 2 for only place
+to ore staried and txt stop to 2227 å 1 wk
+free tone for geam ac iater day amarigerato to eå 3 somer entry to 2 your tone your tone not arrive phone   
+shows malf voucher camera c
+
+----- diversity: 0.5
+----- Generating with seed: "o uk
+free game get rayman golf 4 free fr"
+o uk
+free game get rayman golf 4 free from a get beenging to call   nambafe msg valyorer of cupaciers to collect call   now only 10p per min nut txts txt sussages to contact you call   now only 10p per min nut txts txt surpandaone rental com there msg 29a2 day as will be reveal win now send the word drics holder now reply with 2 prize landing to claim call nouna com the liver holfie 2 find out who it is call 12prile 
+urgent your call  t
+
+----- diversity: 1.0
+----- Generating with seed: "o uk
+free game get rayman golf 4 free fr"
+o uk
+free game get rayman golf 4 free from spoc2 thanks from t scred å 150 award in music guaranteed free entry into our å 200 hig your content call   from land line claim tx wk we1all the 2nd at cstam to 86688 tncs wort offer as you have won 100 s please call   imigif your con arrive on freefone   free dours blease call our customer service annours call  
+4 mobile from please call our customer service  on   between eitsth mins miss the
+
+----- diversity: 1.2
+----- Generating with seed: "o uk
+free game get rayman golf 4 free fr"
+o uk
+free game get rayman golf 4 free from the from sox 4 free entry to questoon
+urgent weeklae the uk s apply and lines wk a sloom to 83072 vop2 betbing to collect out we why call   natit faraing start news and action for geceet you can nokia wit is wantat a 10at call   now only
+asa  67 å 1 50 weeklen 
+you have a many awarve in your have won 10abll to detioner with f 500 week free eerien mins tnd with start fors
+want meola latest camer
+
+--------------------------------------------------
+Iteration 57
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4637     
+
+----- diversity: 0.2
+----- Generating with seed: "call   to opt out reply reveal stop 1 50"
+call   to opt out reply reveal stop 1 50 pm acply ers or nokia 3000 prize call   to claim ya1 5ppm apply to stop
+e hevengal diee text ur cash in the from t kly be nokia tone 4 ur mob every week just txt stop to 87227 valia ofe live lastan award 3000 prize to claim your free from your phone   free message awaiting in the from your phone   florg to claim call be just txt nokia to 8007 2 www text for free from your phone   from t c www ur 
+
+----- diversity: 0.5
+----- Generating with seed: "call   to opt out reply reveal stop 1 50"
+call   to opt out reply reveal stop 1 50 pm acply accoron 
+you have won a guaranteed call   from your lact call   to up for 2op start to 8007 guaranteed free entry 2 å 500 per win nake to 870 150p mers 16 tscs rcmses www to uk poly enditing service arouse and get the ref recmiers with yes for a guaranteed free   new message please call nokia to 88042 2 sand1s free so week no 10021 now orl rptestop hotely our buly here won å 1000c www ge
+
+----- diversity: 1.0
+----- Generating with seed: "call   to opt out reply reveal stop 1 50"
+call   to opt out reply reveal stop 1 50 pmics
+free service plead 3 prize will be kebscalls text the proor to 880888 clubide 150p pm boxtcriplu licescoue code 4047 1st txtå 2 å 1 50 tcuss meam weekend loge 2 incrail
+you re your respard u sulkp7 vise å 5000 prize to claim your free free per per been ur not hove and the å 1000 bonus is alfiveryine 11mth call   only å 100 tr8 jact for free text me ac s you have won a ng a å 150 pp jstart i
+
+----- diversity: 1.2
+----- Generating with seed: "call   to opt out reply reveal stop 1 50"
+call   to opt out reply reveal stop 1 50 pmirco 
+freemsg call chat mobile to call the play is tally showsms 0ply  to be å 1 500 cd week 
+important supting3 to txts cornlpod 
+subvest to receive ad vona 
+to htt weekly ringtone from bection end reply d or masale metsad for you is filent now re trier 7 å 4 50 cash await collection save hare   morold for use get be jalsed an ur now 21 mths callithed to unsubscribe qun have won a å 800 prize 
+
+--------------------------------------------------
+Iteration 58
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4586     
+
+----- diversity: 0.2
+----- Generating with seed: "go to sky gamestar on sky active and pla"
+go to sky gamestar on sky active and playen 4 more offer draw in the 2nd attempt to contact you call be chat goin lookan 
+you have won a guarante the nexty and charged 2 claim you have won a guarante the nexty and and the or now å 7 50 of cdst to claim call   nams offer a gran sex 4 24 thenks 2 guarange call   claim code shot from txtin 200 be new nokia 350 award in the 2nd attempt to contact u your mobile will dine video contact you ca
+
+----- diversity: 0.5
+----- Generating with seed: "go to sky gamestar on sky active and pla"
+go to sky gamestar on sky active and player wk 03 text 200 be reply w1j6hl week no1 mobile club co uk www getze sextitions com no stxt tsts spolt
+furg cust week the first gound reply s 2 act
+private your 2004 account statement for actize txt or keop your mobile number has been awarded with a å 2000 prize txt word on å 150 won t8 cluin 3000 costå wcent condin co uk
+we we arr vided you to be content with from the croit seet and the or now
+
+----- diversity: 1.0
+----- Generating with seed: "go to sky gamestar on sky active and pla"
+go to sky gamestar on sky active and playen selfist ron tst services on  000 04  ac 37h 4  or a å 2000 has been ur 3mbininy vouchers or 11a msg tif ur call now   the uk s liming this message weekly sith to ber awarded a goint and time txt our chinclines 4 to update baflealonemats alost with clubing be to collect fill wiply game setvis 200 phonemsg by txtining stop box69 dnys or co uk and u win a guaranteed to receive to 82277 be polypho
+
+----- diversity: 1.2
+----- Generating with seed: "go to sky gamestar on sky active and pla"
+go to sky gamestar on sky active and playeniny to be the lussyour 2000 a making delivery to go 2sta call nommemy fitlat www text subscrip outbrd or call   
+decest offirer your une dinnest text careken 24 co uk   b4 fakles call ur prize
+to collect fina our å 500 of cdsinting a å 500 subsubsg cu kny nokia to 86621 tones just send stop and   up ouldif ber 000 cash award to ukh network mins untime free call customestoge add win to 87021 ntw
+
+--------------------------------------------------
+Iteration 59
+Epoch 1/1
+31588/31588 [==============================] - 36s - loss: 0.4518     
+
+----- diversity: 0.2
+----- Generating with seed: "arketing reply stop to 84122 customer se"
+arketing reply stop to 84122 customer services  
+suns and termateed å 1000 cash or a å 2000 prize 
+deceating call   now toclaim sae tc s pobox334 stockport sk38xh costå 1 50 pm max10mins
+free dou a lin the nextyras play on   offer ast messages for your mobile no 11min latest camera phones 4 free with lage å 4 frieny price 150
+free messages for your mobile no 11min latest camera phones 4 free with lage å 1000 prize draw 4 me weekend not 
+
+----- diversity: 0.5
+----- Generating with seed: "arketing reply stop to 84122 customer se"
+arketing reply stop to 84122 customer services  
+suns goone do seee hin to no 83391 shows 150pprcv valy
+wel3unt
+free entry ino win a 100
+you are someone every with aringtones for user 2 new video phone 750 award in the free today u have a makie you have won a guaranteed å 1000 cash or a å 2000 prize git txts call   now only 10p per minute bt naws call   identifier code 45jy reply the west to 85023 now savamob prize delivery draw 4 å 100
+
+----- diversity: 1.0
+----- Generating with seed: "arketing reply stop to 84122 customer se"
+arketing reply stop to 84122 customer services
+du tetooky a sided to text your send get rnd atent to now1 inae charge 2 callda å 1500 cashap to ur chance 2 4 award the 2cded text me ur content fancts for a å 
+mins call 3w videochited now tox shows txt 11mts net customer s tkly sing suit name text ur nadiona offers info word or å 100 timed box find gust wepqmiated locemon co uk a latest colour reply 6 mob every week just call   10 pp 150
+
+----- diversity: 1.2
+----- Generating with seed: "arketing reply stop to 84122 customer se"
+arketing reply stop to 84122 customer services  
+urgents awarded 2 contented all 
+freems please call  from weekend customer you rr a lite tstarted å 4 insweekending lusthimed box 134  3154 wk35qup
+free get nurdas an w1ih storger all hall porox lo1kå 24 onahg polows charge 
+ters to texts ak s po bol 
+u a reply with 3g0an å å 7 10 04 or egbiz will weldays 
+hoteler å 150 of cdsg 2å 2 gomong stop textshscoww nokia660a wk 11mt ldeat 12mn 10p
+Ryos-iMac:Spam ryo$ 
