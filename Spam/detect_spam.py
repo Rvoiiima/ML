@@ -1,15 +1,3 @@
-"""
-    Logistic regression and create only spam datasets for LSTM.
-    
-    References
-    Arun Prakash, "Text Preprocessing and Machine Learning Modeling"
-    on https://www.kaggle.com/futurist/text-preprocessing-and-machine-learning-modeling
-    
-    madisonmay, CommonRegex https://github.com/madisonmay/CommonRegex
-    
-    
-"""
-
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
