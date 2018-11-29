@@ -18,7 +18,7 @@ def invH(X,w,T):
 
 def dHdw(X,w,T):
     dH = np.zeros(2)
-    for i in range(2)
+    for i in range(2):
         dH[i] = np.sum((y(X,w)-T)*y(X,w)*(np.ones(12)-y(X,w))*X[i,:])
     return dH
 
