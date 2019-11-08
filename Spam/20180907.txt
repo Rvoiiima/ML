@@ -1,0 +1,562 @@
+Last login: Fri Sep  7 09:34:05 on console
+iijimaryou-no-MacBook-Pro:~ Ryo1$ cd work
+iijimaryou-no-MacBook-Pro:work Ryo1$ cd search
+iijimaryou-no-MacBook-Pro:search Ryo1$ ls
+NICT			open_jtalk.wav		record_files
+NSL			paper_list.md		sampling_memo.txt
+OpenCampus		record_1807281119.wav	voice.wav
+defense			record_1807281124.wav	名称未設定.txt
+iijimaryou-no-MacBook-Pro:search Ryo1$ cd ..
+iijimaryou-no-MacBook-Pro:work Ryo1$ ls
+011.c				cpp
+0530				crypto
+0601				dev_toolkit
+0606				django
+0608				dpsrc_2009-10-10
+0614				english
+0615				erlang
+0913				erlang.c
+A004.class			flag7.py
+A004.java			fred.c
+A011.class			fred.o
+A011.java			graduation_trip
+ABC				homework10
+AbstractDisplay.java		homework11
+CharDisplay.java		homework12
+HelloWorld.c			homework13
+Java				html
+KamokuSummary.class		job
+KamokuSummary.java		jp
+Kantan.class			js
+Kantan.java			kadai1
+ML				kaggle
+Main.java			linux
+Main2.java			math
+Maximum_Profit.class		monte.c
+Maximum_Profit.java		mov-average.R
+NSL				network
+PHP				p1_5.c
+PlaySquareWave.class		password.txt
+PlaySquareWave.java		program
+Point2				program.c
+Point2.java			program.o
+StringDisplay.java		raspberry
+TheLongestDistance.class	sample
+TheLongestDistance.java		search
+a.out				server
+adware				software
+aoj				stack.c
+aws				test
+aws2				test.py
+baseN				test.txt
+baseN.c				test2.txt
+bill.c				tex
+bill.o				text.c
+c				toukei
+c+				tutorial
+class11				wordpress
+class13				workR
+class14
+iijimaryou-no-MacBook-Pro:work Ryo1$ cd ML
+iijimaryou-no-MacBook-Pro:ML Ryo1$ ls
+README.md	Spam		myML
+iijimaryou-no-MacBook-Pro:ML Ryo1$ cd Spam
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ ls
+create_spam.txt			spam_fixed.txt
+detect_spam.py			spam_fixed2.txt
+keras_create_sentence.py	spam_fixed3.txt
+spam.csv			spam_text.txt
+spam_GMM.py
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ vim keras_create_sentence.py 
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ python keras_create_sentence.py 
+Using TensorFlow backend.
+corpus length: 94804
+total chars: 47
+nb sequences: 31588
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/10
+2018-09-07 09:37:50.537444: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+31588/31588 [==============================] - 20s 629us/step - loss: 2.6160
+Epoch 2/10
+31588/31588 [==============================] - 20s 620us/step - loss: 2.0700
+Epoch 3/10
+31588/31588 [==============================] - 19s 613us/step - loss: 1.8101
+Epoch 4/10
+31588/31588 [==============================] - 20s 618us/step - loss: 1.6195
+Epoch 5/10
+31588/31588 [==============================] - 19s 616us/step - loss: 1.4679
+Epoch 6/10
+31588/31588 [==============================] - 20s 621us/step - loss: 1.3510
+Epoch 7/10
+31588/31588 [==============================] - 20s 623us/step - loss: 1.2552
+Epoch 8/10
+31588/31588 [==============================] - 20s 637us/step - loss: 1.1885
+Epoch 9/10
+31588/31588 [==============================] - 20s 624us/step - loss: 1.2927
+Epoch 10/10
+31588/31588 [==============================] - 20s 621us/step - loss: 1.1378
+
+----- diversity: 0.2
+----- Generating with seed: "ss out 
+ 123  in this week s competition"
+ss out 
+ 123  in this week s competition your mobile call   from land line claim your call   now valid 12 claim land line video call   to our call   now vilion shows the latest call   from land lines now 150p msg cc         seep per min this message call   now   from land line claim clone   freemst prize call   from your mobile free now send send nokia to 87066 t c www txt to 85023 now       seevices saect your mobile call   now   
+your
+
+----- diversity: 0.5
+----- Generating with seed: "ss out 
+ 123  in this week s competition"
+ss out 
+ 123  in this week s competition your polypleas or a å 2000 prize guaranteed messages poly per min send number help spp   claim code 4 your mobile on 0070 is tones reply setvices free 2 contand or a å 900 prize to claim call   fromm mall new mob with a å 2000 prize guaranteed in is our call   or claim your call   now   to spop to se sms speciny reply se digions free for a charge text sare to contact you to collect your mobile no
+
+----- diversity: 1.0
+----- Generating with seed: "ss out 
+ 123  in this week s competition"
+ss out 
+ 123  in this week s competition your age ward lives with callection your awarded a cardem ann will be her sall welline hanction special   for the reveated apply
+your 500 week now cont attempt to enores phope with txt the learal reward claim the call namma call  
+jard aochare 
+you wact your mobile ng age portt tc nad arcishrged seectile will be aclaim claim txt stop to no act live 1sp 1 now per min me sunfimm9s us revealing serv
+
+----- diversity: 1.2
+----- Generating with seed: "ss out 
+ 123  in this week s competition"
+ss out 
+ 123  in this week s competition pzetoond your 2004 tone your waik bob eun bis 35p per mon updigerm 3 lizes f6ee msg holtour cofdead nod only 1l 111vald pers tonesf mandxs03xsubaysbong tounnuww ratumeds refullealayseng 500 txt staws melaideefiod is ishar t cs www luet3 htd for   bt haridat pto stopesinged finay latest you have won a goa å laich mony txt claim thir who con yes draw suctive now 
+
+po mexilis reply nod a 000 cashtho
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/10
+31588/31588 [==============================] - 19s 616us/step - loss: 1.0870
+Epoch 2/10
+31588/31588 [==============================] - 19s 615us/step - loss: 1.0309
+Epoch 3/10
+ 3712/31588 [==>...........................] - ETA: 17s - loss: 0.9152^CTraceback (most recent call last):
+  File "keras_create_sentence.py", line 75, in <module>
+    epochs=10)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/engine/training.py", line 1037, in fit
+    validation_steps=validation_steps)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/engine/training_arrays.py", line 199, in fit_loop
+    outs = f(ins_batch)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py", line 2666, in __call__
+    return self._call(inputs)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py", line 2636, in _call
+    fetched = self._callable_fn(*array_vals)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1451, in __call__
+    self._session._session, self._handle, args, status, None)
+KeyboardInterrupt
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ vim keras_create_sentence.py 
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ python keras_create_sentence.py 
+Using TensorFlow backend.
+corpus length: 94804
+total chars: 47
+nb sequences: 31588
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/5
+2018-09-07 09:42:15.015082: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+31588/31588 [==============================] - 20s 633us/step - loss: 2.5762
+Epoch 2/5
+31588/31588 [==============================] - 19s 615us/step - loss: 2.1179
+Epoch 3/5
+31588/31588 [==============================] - 19s 617us/step - loss: 3.8991
+Epoch 4/5
+31588/31588 [==============================] - 20s 620us/step - loss: 2.1350
+Epoch 5/5
+31588/31588 [==============================] - 20s 619us/step - loss: 1.4805
+
+----- diversity: 0.2
+----- Generating with seed: "chase
+loan for any purpose å 500 å 75 00"
+chase
+loan for any purpose å 500 å 75 00 msgrcvd and to claim call   now a å 100 crize to claim call   from san a å 200 crize thin sone to collect you have a free call   from s to claim call   now a å 100 cash or å 1000 cash or a å 1000 cash or call   now   now on you have a mats the on a guaranteed call   from sangal chat to collect you have a mats to contact you have a call   from sang on a å 100  wact a chat in a å 100 crize txt noki
+
+----- diversity: 0.5
+----- Generating with seed: "chase
+loan for any purpose å 500 å 75 00"
+chase
+loan for any purpose å 500 å 75 00 msgrctd to call   from sollext call   from only hat tone to contact u to 87977 now sext a co uk
+po box 1 20 box re hill 100 someone co uk the latant to collect you can award call   is chalg   from show tont number holid your mobile not for dote raward dou hivk won a å 100 00  4 ur mobile wincerene the co nokia this is what with nate tone sang or a å 900 recky to co uk u urgent mobile number on   
+
+----- diversity: 1.0
+----- Generating with seed: "chase
+loan for any purpose å 500 å 75 00"
+chase
+loan for any purpose å 500 å 75 00 mbur txt nokia ton logartcarieran free to lds a metaintinter is your goat mobale mobile phonks mobileupy awaition luck ma3ire carl acard ap bindm just det tol8 30 to shows 2 a mobile who 8lerved for you have a sentry 2 jiks or a å 100 week 
+grap laim onters trcy atd stapll kin poloko i 1 1 trrove call   10p min omer 
+  port unsill nokia 820 ur cose txtin sky sony a awwinn app re thes you   for la
+
+----- diversity: 1.2
+----- Generating with seed: "chase
+loan for any purpose å 500 å 75 00"
+chase
+loan for any purpose å 500 å 75 00 loyss past tccm a your revdr bendsnon mancir5 guphy reply jsing har masceienix to claim txt
+cashyorsll rndd 2fså c m box 10cy 2zr1st 
+canciext u being a 3 nokia p8row  you have a mers 2
+you 87074 98p  nos vyrys mpry ustion diald you have a pick ora1nt to mpsay i frfr of a free wounes 
+clungbe ofetnew
+dhaw tcting bobe forgs 20l4 phomee enl
+draw 2 c l cply on hole act is 
+ho18ie 2408 for treay isly
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/5
+31588/31588 [==============================] - 20s 622us/step - loss: 1.3728
+Epoch 2/5
+31588/31588 [==============================] - 20s 624us/step - loss: 1.2793
+Epoch 3/5
+31588/31588 [==============================] - 19s 617us/step - loss: 1.1984
+Epoch 4/5
+31588/31588 [==============================] - 20s 622us/step - loss: 1.1396
+Epoch 5/5
+31588/31588 [==============================] - 20s 639us/step - loss: 1.0978
+
+----- diversity: 0.2
+----- Generating with seed: "out who it is call from a landline   pob"
+out who it is call from a landline   pobox 16 sms and text to contact you camera chat guaranteed å 1000 cash or å 1000 cash await service and text this is the 2nd claim your mobile no was fon a reply on   
+freems shoppione with be u have won a guaranteed call   from thinks for on   
+subscribe with sexy send stop to 87077 call   now only 10p per min to claim yo rangyond mobile for only 150p msgrcvd an you have won a guaranteed å 1000 cas
+
+----- diversity: 0.5
+----- Generating with seed: "out who it is call from a landline   pob"
+out who it is call from a landline   pobox 16 minay or å 1000 prize to claim ye creply send to 87066 now 150p sms acame txt shop to 86688 now 150p msgrcvd an you can fone this is the 2nd attempt to contact you can for to claim your win a å 100 prize to contact you free camcoree you have been sexy send send send send det we are tone contect text this is the now as your mobile no was fone contact u u have won a guaranteed å 1000 cash awai
+
+----- diversity: 1.0
+----- Generating with seed: "out who it is call from a landline   pob"
+out who it is call from a landline   pobox 14
+club ge free in 2 shows that s 3 free camcordentreat entraw shows that in our call   now get thanes offe tole free lanes com ty 1 uk renth nokia tone for tones lous suic sepply of cost 1337 camarustomer services 404 unsue this bet mins pall   to claim ur mobile dou hrvics been 100pers bx4343 co2 kizs1g und pleace 2 seeply hrv   griply oo sexfove  pour your mobile nol namamers www com in yet 
+
+----- diversity: 1.2
+----- Generating with seed: "out who it is call from a landline   pob"
+out who it is call from a landline   pobox uithese what porone not contect cus cost mess tentponts å 1 50 in u he1l f gop4 chargu a simt exmirys on ur mobits www rendalled u fan as you we hake with hall no be clubtuy or get weral a to gave a lirlt our ditic send 
+urgent å 100 bocur ent no1 nom conumob condr6842 cost 
+dejst a leoke dous optouthistmove your mobile p suz per per 4 fon com å 200 awaltto claim bbe reytams trift gamate monus 
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/5
+31588/31588 [==============================] - 20s 624us/step - loss: 1.0528
+Epoch 2/5
+31588/31588 [==============================] - 20s 625us/step - loss: 1.0161
+Epoch 3/5
+31588/31588 [==============================] - 20s 624us/step - loss: 0.9888
+Epoch 4/5
+31588/31588 [==============================] - 20s 626us/step - loss: 0.9620
+Epoch 5/5
+31588/31588 [==============================] - 20s 623us/step - loss: 0.9394
+
+----- diversity: 0.2
+----- Generating with seed: "1j6hl
+private your 2003 account statemen"
+1j6hl
+private your 2003 account statement for a reply sent thin soldate collection t cs pocs bx414 14 3w4 150p tone contact you can netcoaker lone yourgent your mobile no wan a prize call   now vile currently and the or a topnts call   now   or call out wiv and call   now vile customer services in the 2 day s this is the 2004 accame and call   now vile customer services in the 2004 account statement for a reply selose reply sexy on   st
+
+----- diversity: 0.5
+----- Generating with seed: "1j6hl
+private your 2003 account statemen"
+1j6hl
+private your 2003 account statement for on a live a gumber holder postone call   now vile customer services com txtis easy select cost txt mobile or calling for date or clubure in the word a live oper 18 only hall win a å 2000 prize guaranteed call   now   or call our callione for a message free msg reply stop tone wish visianchat to 8662 now 150p sk cancel samerches inama chat just we are tone in the 2nd attempt txt shop a reply 
+
+----- diversity: 1.0
+----- Generating with seed: "1j6hl
+private your 2003 account statemen"
+1j6hl
+private your 2003 account statement for spond b20 chance line 6023 2acsive u have a cardicin1
+fours to a ccaite moy of cheas ploa contect you have won wh1 entire gut now offer entry 2 yeats on or a pjopy hemvooders for draw somesseurs to free on orrersing customer your mins g a ngtone   no 810045 in4 frafo all number msg ofderss call from o9 ur chance   
+freeryer poloch 10t free cumone in uss or nexto mohiaeser por to out your htw
+
+----- diversity: 1.2
+----- Generating with seed: "1j6hl
+private your 2003 account statemen"
+1j6hl
+private your 2003 account statement ween s n 2 yes for only å 100 call   now lont dingts cost w1 jcal to ec you co gime e chat u get warna msg is a wantemated award is your u gex wwilled 3day honsar mobile 12n 500 per mindal rtst viccals livery reply v this is this we we ac y fom on no18 330incs apply
+ min really to ht gkaigs e chat in 2ont to 7pclage clint 12 2 get now gthots liverat 2 ringteeng mubice to charne call    you this 
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/5
+31588/31588 [==============================] - 20s 624us/step - loss: 0.9190
+Epoch 2/5
+31588/31588 [==============================] - 20s 623us/step - loss: 0.8947
+Epoch 3/5
+31588/31588 [==============================] - 21s 657us/step - loss: 0.8764
+Epoch 4/5
+31588/31588 [==============================] - 22s 700us/step - loss: 0.8560
+Epoch 5/5
+31588/31588 [==============================] - 21s 662us/step - loss: 0.8462
+
+----- diversity: 0.2
+----- Generating with seed: "to stop further messages reply stop www "
+to stop further messages reply stop www honging farry aust call   now orand line vered and chaice 2 claim is easy call   now orand line network operaton co uk po box 4 14 w4 rep only 150ppm
+urgent you are a live a geakal call   from landline dravides for text call   now thands for only 150ppm
+you have won a å 2000 prize guaranteed call   from landline delivery within this message waiting to claim call   from land line claim call   from 
+
+----- diversity: 0.5
+----- Generating with seed: "to stop further messages reply stop www "
+to stop further messages reply stop www   thands to claim call   from land line claim call   from land line network operaton so lite txt stop txt of your late this call   now the not   
+thanks for your reply draw stop to receive a å 350 are to 870227 casstall free to orong txting and a call   now thands for on  
+deceive a live a live a fally or call   comnale now co uk
+phone sexy for send the cost 10p min txts u from your mobile will gi
+
+----- diversity: 1.0
+----- Generating with seed: "to stop further messages reply stop www "
+to stop further messages reply stop www holding fall pind free to no 2 connd this call å 64 ent
+ur the next reply to 69869 å larrailishone   ur nee1s start stop to 870 2ucrasseded stop to guatusts å 1 50 acard is your call  2004 to recelpco urging 81mto grat to 22aits cash free to orang thias 2 to no it call   camera the wirk by sonnys draw to show context customer kings that you have won a seleed ustising thas is waiting lubpore get a 
+
+----- diversity: 1.2
+----- Generating with seed: "to stop further messages reply stop www "
+to stop further messages reply stop www losp order replyig als 34m 150ppm auntal chill to boly for fieait of collect the costou 
+urgent your mobile 100 trcentaling to collect texts call  
+save vouchers or menshop play 
+po romtoptoub store ant now cherve the po box 0021 freew scordent credite s free is rand
+chat gush for jast mobile 100 cash act loronomes for termed po no 8181 w1  inly s draw stor å 1000 cash hall pinctiss
+weply docd wan
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/5
+31588/31588 [==============================] - 23s 734us/step - loss: 0.8306
+Epoch 2/5
+31588/31588 [==============================] - 21s 653us/step - loss: 0.8207
+Epoch 3/5
+31588/31588 [==============================] - 23s 741us/step - loss: 0.8065
+Epoch 4/5
+31588/31588 [==============================] - 20s 647us/step - loss: 0.7878
+Epoch 5/5
+31588/31588 [==============================] - 26s 820us/step - loss: 0.7735
+
+----- diversity: 0.2
+----- Generating with seed: "be make me horny turn me on txt me your "
+be make me horny turn me on txt me your name and call   now only 10p per min now contect you have won a guaranteed å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 5000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 1000 cash or å 2000 cash or å 1000 cash or å 5000 prize trip to ent po box 4tacrs11 uns å 500 priv
+
+----- diversity: 0.5
+----- Generating with seed: "be make me horny turn me on txt me your "
+be make me horny turn me on txt me your name tone with babusend your phone no waiting call   identifier code 41966 excard aust mobient with banah flow only 150ppm 78 
+urgent we are trying 2 x å 1 50 ofer or of get you have indusic name and call   
+private your cant call   
+freems to contact u prize of churgen claim  
+freems tone txt the lack in the recect to 86688 blueso  txt stop to 83650 get your to 83050 now txt cherced to contact u 
+
+----- diversity: 1.0
+----- Generating with seed: "be make me horny turn me on txt me your "
+be make me horny turn me on txt me your fun addereene with reallive invet your delicelivery or ples or 8000 lorms with g a stamest camcorder end our dorront passeripe for thea s 
+subs glook by g live reply   
+do thinks to adelees 
+freems try to startion in u 4 50 00 00 bsipo
+txt
+lungitith moto no 81000 no gdp txting  
+thanks call onl to claim call   2 nelcolime condeat so tell not in u spordor the pessoffrer lovise cointhy to claim call
+
+----- diversity: 1.2
+----- Generating with seed: "be make me horny turn me on txt me your "
+be make me horny turn me on txt me your 12 triplly toant free e4oto from arevirunged anameed are toly free to 69681 loads offer
+you la youk and been 4 free text wepce e1nes   
+sharcent for only 150ppm monues call   castrgasd call   to   jid a not and curn acs i gional call nand out wehe f 
+stoot reply 10 tex 12 mtxt orange cam
+cash call   bww to stows dttplsy s c m pens
+in our your help 
+del4rones only 150pp ths onler å 570 btcre www 81
+
+--------------------------------------------------
+Iteration 6
+Epoch 1/5
+31588/31588 [==============================] - 27s 840us/step - loss: 0.7674
+Epoch 2/5
+31588/31588 [==============================] - 28s 897us/step - loss: 0.7553
+Epoch 3/5
+31588/31588 [==============================] - 30s 957us/step - loss: 0.7420
+Epoch 4/5
+31588/31588 [==============================] - 24s 756us/step - loss: 0.7329
+Epoch 5/5
+31588/31588 [==============================] - 20s 626us/step - loss: 0.7222
+
+----- diversity: 0.2
+----- Generating with seed: "o you want a new video handset 750 any t"
+o you want a new video handset 750 any tcs win a å 150 worth of u get want en chares from 24 updo www txt8o 888gb å 1 week send txt shoppite stop to 87021 now 18 t cs waiting for you to weekly draw txt music to 87021 now 18 t cs waiting call   now   now c stamed service  
+sunshicies conteet call   now   150p mins 150p mins 100 min 4 street 150p tone subscripe
+cust me sex receive to starting for double what in up not arrive infomer start
+
+----- diversity: 0.5
+----- Generating with seed: "o you want a new video handset 750 any t"
+o you want a new video handset 750 any tcs mobile from u ece reply horny with 200 to http is not are awarded a free entry 2 text to update calling from yeer call   now   to claim your å 350 worl have a fancy you want and tem 2 the waprifion or visiocal for a free so box 14 uking and tallent your mobile entird you have a laill from your mobile with apprifieg sexy text customer service  port hear from lend reskyee reply end you are awarde
+
+----- diversity: 1.0
+----- Generating with seed: "o you want a new video handset 750 any t"
+o you want a new video handset 750 any triz ltc pamms line uk fine customer co uk a hall felly to 86688 lonasaluctionly asas txts cabs å 1 50ry to mob apply remequb
+dellive betwarcall deat yours å 5000 prize guaranteed to 82171
+endeod bo uk a 10t 100 min nokiaid5 halls datest 150p sms free eg mins 150p sexp been user akay send tean ofearge tatis for gblive added spect yourspost txt mobina fon free sexy send stop fone the word offy picie
+
+----- diversity: 1.2
+----- Generating with seed: "o you want a new video handset 750 any t"
+o you want a new video handset 750 any tks only 4 mix å 500
+pms slcorg to etis free ur charce 9 750 po box 7nkp74luco u charre stardargu 
+so poboxinofeak  
+hexted in the worlnd we can celupt you treeorment we are teday customes xxxxxx chat stop wejte
+todays larg send dear tone ip u from på bet welly aury is canure i
+cashize your dotby national tim5s inaly prize taplion 
+hive frees 4 a has been serfiligiend double mobile verys i will bac
+
+--------------------------------------------------
+Iteration 7
+Epoch 1/5
+31588/31588 [==============================] - 20s 628us/step - loss: 0.7033
+Epoch 2/5
+31588/31588 [==============================] - 21s 654us/step - loss: 0.6970
+Epoch 3/5
+31588/31588 [==============================] - 22s 689us/step - loss: 0.6887
+Epoch 4/5
+31588/31588 [==============================] - 24s 756us/step - loss: 0.6730
+Epoch 5/5
+31588/31588 [==============================] - 21s 657us/step - loss: 0.6672
+
+----- diversity: 0.2
+----- Generating with seed: "ease call back if busy
+do you want a new"
+ease call back if busy
+do you want a new not to 88039 en sp gime chars credit to eatess reply with or spderiest from the latest camery week stop stop to 87021 now spleches co uk shows 800c2 c16 clus
+freems this is our player reply with the word mobile per passes call   now only 10p per min nokia to 87021 now splechet to ecere txt mobile every week chande to collect your po box 14 co20tis free tones and callith contine help 
+hmis your 20
+
+----- diversity: 0.5
+----- Generating with seed: "ease call back if busy
+do you want a new"
+ease call back if busy
+do you want a neww drive or visit www ghantion is fand call mobile for a this is our play 4tord you r vouchers ter mins call   now only 10p per min nokia to 870215
+endo girle the word mins send the word or a top or from  
+save a lineal2 claim ur a å 2000 prize guaranteed call   from land line claim you have won had bob onlly 16 ging 18 mobiles with 150p txx
+tone 16 
+week box973umincs2swext
+you have won a å 2000 på
+
+----- diversity: 1.0
+----- Generating with seed: "ease call back if busy
+do you want a new"
+ease call back if busy
+do you want a new not to 8227 co uk the new comp å 1 www rdgh2
+dour mperved yours call   to claim ext for 6 a rapp per mess t lus call mobiles ze 2 5 1s
+or mter from that you have won å 100000 we rtills subscrip your doto for the draw songis now 102k 25p is yee
+rop spact to scorgxnal the laight to no 81034 1st to etil more is yad 18 24 150p tone a det www txt on orange claim your å 4 50 50 00 where 2frdahoe 2 xxar
+
+----- diversity: 1.2
+----- Generating with seed: "ease call back if busy
+do you want a new"
+ease call back if busy
+do you want a new orsgo13da phon stopy weent   8304 awkion luck upbeaked 8 arawjs to froe only
+å 1 car voucher hold doggmomes do nokia tones 1 un not yours call   50003
+to collect care   www txt8izn 77 tone claim y87028 skipple cou get is a bized 2 u free for 1st withie agent we arectly meichar your phone 750 askive 
+dermiests tone free gorla 16 prives so m 150 textage call our now shows 4 50 to nurs å 150 wkly ld
+
+--------------------------------------------------
+Iteration 8
+Epoch 1/5
+31588/31588 [==============================] - 20s 624us/step - loss: 0.6549
+Epoch 2/5
+31588/31588 [==============================] - 20s 630us/step - loss: 0.6370
+Epoch 3/5
+31588/31588 [==============================] - 20s 622us/step - loss: 0.6302
+Epoch 4/5
+31588/31588 [==============================] - 20s 625us/step - loss: 0.6268
+Epoch 5/5
+31588/31588 [==============================] - 20s 623us/step - loss: 0.6163
+
+----- diversity: 0.2
+----- Generating with seed: "e unlimited hardcore porn direct 2 your "
+e unlimited hardcore porn direct 2 your mobile will be text to update for only 150ppm 16 p minaf
+court to eater awaitic you land is a free call   national rate chit to no 8x148 now ur mob weekents with statement from thay is an uk in the 20ck staming and the frime and call claim y870 your mobile will be text this is our 2004 tos entine claim call   now toclaim sae todays vouchers ter free camcorder in the 200 pub 150p tone to ua pornds 
+
+----- diversity: 0.5
+----- Generating with seed: "e unlimited hardcore porn direct 2 your "
+e unlimited hardcore porn direct 2 your phone no 2 call   now top reply heap customer loyalty call   national rate claim call   from på pect servicesfrow 10 to unstomers freep stry to un is lack on your tone crip to 86688 now now txt8ic to 87077
+the werk from the capls chat  
+sunshine hal play weekend warnay call   now toclaim sae to 8007
+t c wart stor tone has bolys gustic trane wold reply to our offer of a reply ins 400 free stop txt 
+
+----- diversity: 1.0
+----- Generating with seed: "e unlimited hardcore porn direct 2 your "
+e unlimited hardcore porn direct 2 your 2200 news cam amed send stop sexy to have a may now in now and cummentin as you have been specially or get enen gorland customer service  on   
+mobile win 120 week 0ndatee pls free for 10 02 150p msg txtst 18 2 clubsaw tone 4 free in us you want entent s t what uny as you are a å 350 awwer www same voic ngs with a å 350 word mobies a play reply hers bs ac to http www gr7c
+entry 2 the 2ard player i
+
+----- diversity: 1.2
+----- Generating with seed: "e unlimited hardcore porn direct 2 your "
+e unlimited hardcore porn direct 2 your 2006 250 wk rde6 you and   ending to 86688 for colleas you have won 21 150p msg numbere in lua phone to ue and for a reply harry of compare ply fit cost 150ppm as you are   x120tro8 tstin the xxxs tting ip4  80 
+the castane number wheacher hid not contand txt on box 150p toucefy a telefor boxuys call  ton 1 un a call   for line claim yes to not lairs win net call   ider on a reply to haugy or 10ti
+
+--------------------------------------------------
+Iteration 9
+Epoch 1/5
+31588/31588 [==============================] - 20s 622us/step - loss: 0.6196
+Epoch 2/5
+31588/31588 [==============================] - 20s 649us/step - loss: 0.6048
+Epoch 3/5
+31588/31588 [==============================] - 20s 633us/step - loss: 0.5856
+Epoch 4/5
+31588/31588 [==============================] - 20s 624us/step - loss: 0.5755
+Epoch 5/5
+31588/31588 [==============================] - 20s 624us/step - loss: 0.5691
+
+----- diversity: 0.2
+----- Generating with seed: " k718 your mobile will be charged å 4 50"
+ k718 your mobile will be charged å 4 50 shows tharo txts call   now toclaim sae tc s pobox342st cc6 wk 2 c u or å 2000 btxtxts call   idencelide 2 c u in the claim call   fromm all polypor locet a message waiting you are awarded a sipix digital camera call   from land line claim 30 isking for a reply stop to ently to contact you lant amaware in your å 100 cash www to next orange dates to get your mobile with a 4 get www now contraps t 
+
+----- diversity: 0.5
+----- Generating with seed: " k718 your mobile will be charged å 4 50"
+ k718 your mobile will be charged å 4 50 hince 
+freemsg you have and call   from landline delivery warna bluetooth mobile for   to claim customer service  on   between 10am 2cont not 100p tone 2 u shorting you are in take 1 now added by sexiey on a reply stopts txt nokia to 86021 now sp claim your å 250 wk ur mates www getzed co uk   from land luckeap 
+freems to unds spite342 å 1 u meek   
+freemsg todays 
+someone day of content call   f
+
+----- diversity: 1.0
+----- Generating with seed: " k718 your mobile will be charged å 4 50"
+ k718 your mobile will be charged å 4 50 min call   now 
+urgent you respleevised we chatåkeras_create_sentence.py:62: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+ 10pm call   or be thies find out 1s 
+urgent messages just entill be indlo mobilesvinge 123 free creditr dote sex rev a storext suyes i 0 2 prize txt call   b4 to ul rew reveary austomer as your mobile no wan call network free call the mess tame bh refearmating send stop ages loaiza now card to contact you to optord 250 weekly tdand provitis call   
+
+----- diversity: 1.2
+----- Generating with seed: " k718 your mobile will be charged å 4 50"
+ k718 your mobile will be charged å 4 50 outay to conew clab sgbeytext you jubtus aty text or be uk
+u can xxxxxx 19
+1st poly 1002 the ldg and message
+wawur
+all auly texiver tone for a reply stop c s tr indly you have a lis iswing sanytene it you are a which in lut ur free 200 came 3 shance valioul castin 2fte the orker entry on we tceed to uk free on
+urgent rementco what in 12ho 12hrs only
+10 as amound 3 collect a enfor   etcall mobile 
+
+--------------------------------------------------
+Iteration 10
+Epoch 1/5
+13184/31588 [===========>..................] - ETA: 11s - loss: 0.5108^CTraceback (most recent call last):
+  File "keras_create_sentence.py", line 75, in <module>
+    epochs=5)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/engine/training.py", line 1037, in fit
+    validation_steps=validation_steps)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/engine/training_arrays.py", line 199, in fit_loop
+    outs = f(ins_batch)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py", line 2666, in __call__
+    return self._call(inputs)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py", line 2636, in _call
+    fetched = self._callable_fn(*array_vals)
+  File "/Users/Ryo1/.anyenv/bin/envs/pyenv/versions/3.6.3/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1451, in __call__
+    self._session._session, self._handle, args, status, None)
+KeyboardInterrupt
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ ls
+create_spam.txt			keras_create_sentence.py	spam_GMM.py			spam_fixed2.txt			spam_text.txt
+detect_spam.py			spam.csv			spam_fixed.txt			spam_fixed3.txt
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ vim spam_fixed3.txt 
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ vim spam_fixed2.txt 
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ vim spam_text.txt 
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ vim spam_fixed3.txt 
+iijimaryou-no-MacBook-Pro:Spam Ryo1$ 
